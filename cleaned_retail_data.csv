@@ -1,0 +1,1001 @@
+Date,Product_ID,Product_Name,Category,State,City,Campaign,Base_Price,Discount_%,Final_Price,Units_Sold,Revenue,Cost_Per_Unit,Profit
+2024-03-25,P004,Product_4,Beauty,Delhi,New Delhi,Clearance,689.66,20,551.73,1,551.73,536.01,15.72
+2024-04-01,P015,Product_15,Beauty,Tamil Nadu,Chennai,,244.42,5,232.2,5,1161.0,179.88,261.6
+2024-02-16,P006,Product_6,Apparel,Karnataka,Hubli,Summer Sale,697.8,15,593.13,71,42112.23,499.74,6630.69
+2024-01-01,P016,Product_16,Electronics,Kerala,Thiruvananthapuram,New Year,716.62,5,680.79,35,23827.65,531.56,5223.05
+2024-04-15,P001,Product_1,Apparel,West Bengal,Siliguri,Summer Sale,378.83,0,378.83,60,22729.8,239.8,8341.8
+2024-02-21,P018,Product_18,Electronics,Uttar Pradesh,Lucknow,Diwali,582.0,5,552.9,21,11610.9,420.65,2777.25
+2024-02-24,P015,Product_15,Beauty,Karnataka,Mysuru,,885.37,25,664.03,55,36521.65,500.07,9017.8
+2024-02-18,P012,Product_12,Apparel,Gujarat,Vadodara,Summer Sale,957.53,30,670.27,36,24129.72,660.37,356.4
+2024-04-22,P006,Product_6,Apparel,Telangana,Warangal,,555.07,5,527.32,39,20565.48,316.13,8236.41
+2024-04-18,P013,Product_13,Beauty,Rajasthan,Udaipur,New Year,192.31,25,144.23,9,1298.07,100.63,392.4
+2024-01-05,P019,Product_19,Beauty,Delhi,New Delhi,New Year,552.82,20,442.26,22,9729.72,362.92,1745.48
+2024-03-20,P015,Product_15,Beauty,Maharashtra,Mumbai,Diwali,709.25,5,673.79,81,54576.99,427.99,19909.8
+2024-03-13,P015,Product_15,Beauty,West Bengal,Siliguri,New Year,773.52,10,696.17,57,39681.69,389.83,17461.38
+2024-02-01,P010,Product_10,Home,Uttar Pradesh,Varanasi,,244.33,20,195.46,37,7232.02,152.3,1596.92
+2024-04-28,P018,Product_18,Electronics,Gujarat,Surat,New Year,724.55,0,724.55,23,16664.65,455.66,6184.47
+2024-04-17,P003,Product_3,Apparel,Uttar Pradesh,Varanasi,Clearance,101.79,30,71.25,66,4702.5,67.14,271.26
+2024-01-30,P016,Product_16,Electronics,Maharashtra,Mumbai,Clearance,563.44,5,535.27,22,11775.94,373.23,3564.88
+2024-03-18,P003,Product_3,Apparel,Telangana,Warangal,Diwali,117.22,25,87.91,32,2813.12,89.94,-64.96
+2024-04-15,P020,Product_20,Beauty,Telangana,Hyderabad,Clearance,209.35,10,188.41,36,6782.76,112.11,2746.8
+2024-02-16,P016,Product_16,Electronics,Rajasthan,Udaipur,Clearance,646.98,10,582.28,78,45417.84,355.89,17658.42
+2024-01-28,P010,Product_10,Home,Kerala,Thiruvananthapuram,Diwali,451.93,30,316.35,19,6010.65,271.48,852.53
+2024-03-02,P014,Product_14,Apparel,West Bengal,Siliguri,Clearance,614.72,10,553.25,9,4979.25,384.04,1522.89
+2024-02-16,P006,Product_6,Apparel,Kerala,Thiruvananthapuram,Summer Sale,884.32,10,795.89,67,53324.63,626.92,11320.99
+2024-04-24,P016,Product_16,Electronics,Delhi,New Delhi,Summer Sale,778.24,5,739.33,29,21440.57,505.88,6770.05
+2024-02-17,P013,Product_13,Beauty,Telangana,Hyderabad,Diwali,592.02,25,444.01,1,444.01,408.15,35.86
+2024-03-04,P007,Product_7,Home,Rajasthan,Udaipur,Clearance,950.6,15,808.01,48,38784.48,648.02,7679.52
+2024-01-26,P014,Product_14,Apparel,Rajasthan,Udaipur,Clearance,939.81,10,845.83,39,32987.37,510.18,13090.35
+2024-02-18,P013,Product_13,Beauty,Maharashtra,Mumbai,Diwali,561.06,15,476.9,13,6199.7,346.49,1695.33
+2024-02-22,P007,Product_7,Home,West Bengal,Kolkata,,711.01,5,675.46,58,39176.68,463.82,12275.12
+2024-01-25,P005,Product_5,Electronics,Rajasthan,Jaipur,Summer Sale,798.84,30,559.19,62,34669.78,589.41,-1873.64
+2024-04-26,P014,Product_14,Apparel,Rajasthan,Jaipur,Clearance,705.92,20,564.74,3,1694.22,471.7,279.12
+2024-01-25,P009,Product_9,Beauty,Tamil Nadu,Chennai,Summer Sale,299.71,20,239.77,26,6234.02,172.63,1745.64
+2024-03-05,P002,Product_2,Apparel,Telangana,Warangal,New Year,758.18,15,644.45,73,47044.85,500.93,10476.96
+2024-04-24,P016,Product_16,Electronics,Uttar Pradesh,Lucknow,Summer Sale,518.55,25,388.91,86,33446.26,390.47,-134.16
+2024-03-23,P003,Product_3,Apparel,Uttar Pradesh,Varanasi,Diwali,214.65,25,160.99,71,11430.29,136.39,1746.6
+2024-01-03,P009,Product_9,Beauty,Tamil Nadu,Madurai,,838.54,15,712.76,41,29223.16,641.29,2930.27
+2024-04-13,P001,Product_1,Apparel,Delhi,New Delhi,Diwali,112.03,25,84.02,46,3864.92,69.05,688.62
+2024-01-08,P007,Product_7,Home,Delhi,New Delhi,Summer Sale,113.96,15,96.87,48,4649.76,64.09,1573.44
+2024-04-13,P020,Product_20,Beauty,Rajasthan,Udaipur,Clearance,889.62,0,889.62,76,67611.12,493.31,30119.56
+2024-02-18,P007,Product_7,Home,Kerala,Kochi,Diwali,971.26,15,825.57,92,75952.44,644.6,16649.24
+2024-04-27,P010,Product_10,Home,Telangana,Warangal,New Year,166.69,30,116.68,66,7700.88,109.02,505.56
+2024-04-15,P010,Product_10,Home,Karnataka,Hubli,Clearance,490.13,25,367.6,64,23526.4,383.66,-1027.84
+2024-03-18,P002,Product_2,Apparel,West Bengal,Siliguri,,389.05,30,272.33,83,22603.39,202.7,5779.29
+2024-01-04,P015,Product_15,Beauty,Gujarat,Surat,Diwali,435.28,30,304.7,59,17977.3,309.92,-307.98
+2024-04-16,P010,Product_10,Home,Telangana,Hyderabad,,517.81,10,466.03,75,34952.25,360.92,7883.25
+2024-03-02,P005,Product_5,Electronics,Maharashtra,Mumbai,,936.36,15,795.91,30,23877.3,529.32,7997.7
+2024-04-07,P008,Product_8,Electronics,Kerala,Kochi,New Year,858.09,15,729.38,9,6564.42,430.41,2690.73
+2024-02-05,P008,Product_8,Electronics,Tamil Nadu,Chennai,Diwali,795.53,25,596.65,79,47135.35,409.38,14794.33
+2024-02-14,P014,Product_14,Apparel,Rajasthan,Jaipur,Clearance,789.86,20,631.89,58,36649.62,580.22,2996.86
+2024-03-21,P010,Product_10,Home,Gujarat,Surat,New Year,415.18,15,352.9,96,33878.4,272.11,7755.84
+2024-01-29,P005,Product_5,Electronics,Telangana,Warangal,Summer Sale,113.17,30,79.22,83,6575.26,77.65,130.31
+2024-04-01,P020,Product_20,Beauty,Telangana,Warangal,Diwali,447.96,0,447.96,92,41212.32,250.18,18195.76
+2024-03-27,P010,Product_10,Home,West Bengal,Kolkata,New Year,451.68,30,316.18,58,18338.44,348.91,-1898.34
+2024-02-05,P016,Product_16,Electronics,Rajasthan,Udaipur,Summer Sale,644.87,10,580.38,21,12187.98,448.98,2759.4
+2024-03-16,P009,Product_9,Beauty,Tamil Nadu,Chennai,New Year,867.33,5,823.96,86,70860.56,630.97,16597.14
+2024-01-16,P012,Product_12,Apparel,Telangana,Hyderabad,Summer Sale,526.53,30,368.57,13,4791.41,375.85,-94.64
+2024-04-18,P005,Product_5,Electronics,Tamil Nadu,Madurai,Summer Sale,282.03,0,282.03,59,16639.77,156.7,7394.47
+2024-01-10,P010,Product_10,Home,Gujarat,Ahmedabad,New Year,293.42,15,249.41,94,23444.54,223.17,2466.56
+2024-03-30,P011,Product_11,Home,Telangana,Hyderabad,New Year,556.35,5,528.53,79,41753.87,371.3,12421.17
+2024-01-23,P013,Product_13,Beauty,West Bengal,Kolkata,Diwali,726.54,25,544.9,12,6538.8,460.01,1018.68
+2024-03-02,P016,Product_16,Electronics,Karnataka,Mysuru,,693.56,30,485.49,96,46607.04,436.48,4704.96
+2024-04-03,P012,Product_12,Apparel,Delhi,New Delhi,,723.12,0,723.12,67,48449.04,565.28,10575.28
+2024-01-28,P017,Product_17,Apparel,Telangana,Warangal,Clearance,302.54,25,226.91,94,21329.54,175.73,4810.92
+2024-01-07,P020,Product_20,Beauty,Karnataka,Mysuru,,516.8,25,387.6,13,5038.8,359.91,359.97
+2024-01-04,P018,Product_18,Electronics,Rajasthan,Jaipur,,338.17,25,253.63,53,13442.39,251.76,99.11
+2024-04-10,P001,Product_1,Apparel,Kerala,Kochi,Clearance,515.37,10,463.83,70,32468.1,379.32,5915.7
+2024-01-01,P015,Product_15,Beauty,Tamil Nadu,Coimbatore,,773.05,0,773.05,33,25510.65,486.79,9446.58
+2024-01-21,P005,Product_5,Electronics,West Bengal,Siliguri,Diwali,517.59,15,439.95,22,9678.9,264.02,3870.46
+2024-04-29,P012,Product_12,Apparel,West Bengal,Kolkata,Diwali,899.62,0,899.62,79,71069.98,600.23,23651.81
+2024-02-25,P007,Product_7,Home,Uttar Pradesh,Kanpur,Diwali,872.31,0,872.31,48,41870.88,520.69,16877.76
+2024-03-17,P018,Product_18,Electronics,Uttar Pradesh,Kanpur,Diwali,280.96,5,266.91,29,7740.39,177.26,2599.85
+2024-04-06,P013,Product_13,Beauty,Gujarat,Surat,New Year,842.87,15,716.44,2,1432.88,610.58,211.72
+2024-01-20,P007,Product_7,Home,Maharashtra,Mumbai,Diwali,619.03,0,619.03,38,23523.14,327.14,11091.82
+2024-04-05,P003,Product_3,Apparel,Kerala,Kochi,,912.78,25,684.59,61,41759.99,661.27,1422.52
+2024-02-04,P001,Product_1,Apparel,West Bengal,Siliguri,Clearance,706.83,10,636.15,67,42622.05,564.96,4769.73
+2024-04-22,P020,Product_20,Beauty,Rajasthan,Udaipur,New Year,614.05,15,521.94,16,8351.04,382.77,2226.72
+2024-04-24,P011,Product_11,Home,Rajasthan,Udaipur,Summer Sale,965.04,0,965.04,75,72378.0,586.87,28362.75
+2024-02-17,P020,Product_20,Beauty,West Bengal,Siliguri,Summer Sale,465.41,20,372.33,30,11169.9,276.38,2878.5
+2024-03-18,P015,Product_15,Beauty,Telangana,Warangal,Diwali,380.98,5,361.93,86,31125.98,192.13,14602.8
+2024-02-01,P010,Product_10,Home,Telangana,Warangal,New Year,924.94,25,693.71,49,33991.79,674.0,965.79
+2024-03-20,P010,Product_10,Home,Tamil Nadu,Chennai,Summer Sale,219.38,5,208.41,58,12087.78,146.77,3575.12
+2024-03-08,P016,Product_16,Electronics,Uttar Pradesh,Kanpur,Summer Sale,473.33,30,331.33,10,3313.3,292.13,392.0
+2024-03-14,P016,Product_16,Electronics,Karnataka,Hubli,New Year,991.61,0,991.61,19,18840.59,627.38,6920.37
+2024-03-23,P001,Product_1,Apparel,Tamil Nadu,Coimbatore,Clearance,224.59,5,213.36,25,5334.0,127.72,2141.0
+2024-02-24,P015,Product_15,Beauty,Tamil Nadu,Chennai,Summer Sale,881.57,10,793.41,11,8727.51,686.52,1175.79
+2024-02-20,P016,Product_16,Electronics,Karnataka,Mysuru,,656.67,20,525.34,63,33096.42,370.03,9784.53
+2024-04-22,P005,Product_5,Electronics,Tamil Nadu,Coimbatore,,498.75,25,374.06,50,18703.0,346.56,1375.0
+2024-03-15,P006,Product_6,Apparel,Telangana,Warangal,New Year,515.05,25,386.29,38,14679.02,349.18,1410.18
+2024-02-24,P019,Product_19,Beauty,Gujarat,Ahmedabad,,954.28,30,668.0,61,40748.0,670.32,-141.52
+2024-02-13,P010,Product_10,Home,West Bengal,Siliguri,,877.28,5,833.42,87,72507.54,682.1,13164.84
+2024-03-29,P015,Product_15,Beauty,Kerala,Kochi,Clearance,550.32,0,550.32,41,22563.12,381.52,6920.8
+2024-03-05,P018,Product_18,Electronics,Karnataka,Bengaluru,Diwali,683.78,5,649.59,74,48069.66,455.68,14349.34
+2024-04-13,P015,Product_15,Beauty,Tamil Nadu,Madurai,Clearance,672.35,0,672.35,4,2689.4,419.65,1010.8
+2024-03-21,P001,Product_1,Apparel,Rajasthan,Jaipur,Summer Sale,734.63,15,624.44,86,53701.84,495.08,11124.96
+2024-02-19,P015,Product_15,Beauty,Gujarat,Surat,,853.63,20,682.9,14,9560.6,442.34,3367.84
+2024-01-12,P014,Product_14,Apparel,Tamil Nadu,Madurai,Diwali,801.19,30,560.83,59,33088.97,568.76,-467.87
+2024-01-03,P005,Product_5,Electronics,Telangana,Hyderabad,New Year,509.39,30,356.57,20,7131.4,401.54,-899.4
+2024-03-17,P002,Product_2,Apparel,Karnataka,Mysuru,,675.13,15,573.86,90,51647.4,418.96,13941.0
+2024-02-05,P019,Product_19,Beauty,Tamil Nadu,Madurai,,626.05,30,438.23,49,21473.27,365.05,3585.82
+2024-02-09,P017,Product_17,Apparel,Karnataka,Bengaluru,Clearance,170.7,0,170.7,75,12802.5,115.71,4124.25
+2024-02-09,P010,Product_10,Home,Gujarat,Vadodara,Diwali,634.67,30,444.27,20,8885.4,323.38,2417.8
+2024-04-25,P019,Product_19,Beauty,Telangana,Hyderabad,,307.72,25,230.79,81,18693.99,209.88,1693.71
+2024-01-07,P020,Product_20,Beauty,Gujarat,Vadodara,,321.66,10,289.49,46,13316.54,224.43,2992.76
+2024-02-17,P015,Product_15,Beauty,Rajasthan,Udaipur,Diwali,551.42,5,523.85,59,30907.15,422.29,5992.04
+2024-03-13,P019,Product_19,Beauty,Delhi,New Delhi,Summer Sale,437.9,20,350.32,87,30477.84,256.59,8154.51
+2024-03-21,P014,Product_14,Apparel,Gujarat,Vadodara,New Year,997.51,0,997.51,84,83790.84,563.46,36460.2
+2024-04-04,P016,Product_16,Electronics,Gujarat,Ahmedabad,New Year,660.37,5,627.35,57,35758.95,422.31,11687.28
+2024-02-22,P003,Product_3,Apparel,Kerala,Kochi,New Year,798.32,5,758.4,20,15168.0,482.39,5520.2
+2024-02-11,P001,Product_1,Apparel,West Bengal,Kolkata,Diwali,977.81,25,733.36,49,35934.64,685.24,2357.88
+2024-04-07,P013,Product_13,Beauty,Uttar Pradesh,Lucknow,Clearance,944.17,0,944.17,19,17939.23,628.4,5999.63
+2024-01-20,P011,Product_11,Home,Gujarat,Surat,Summer Sale,163.93,5,155.73,58,9032.34,93.24,3624.42
+2024-02-21,P013,Product_13,Beauty,Uttar Pradesh,Varanasi,New Year,149.7,30,104.79,88,9221.52,79.38,2236.08
+2024-02-09,P016,Product_16,Electronics,Delhi,New Delhi,New Year,494.61,30,346.23,84,29083.32,391.69,-3818.64
+2024-01-11,P008,Product_8,Electronics,Telangana,Hyderabad,Diwali,202.99,15,172.54,56,9662.24,110.97,3447.92
+2024-02-25,P018,Product_18,Electronics,Tamil Nadu,Chennai,New Year,393.63,30,275.54,8,2204.32,222.76,422.24
+2024-02-05,P004,Product_4,Beauty,Karnataka,Mysuru,Diwali,216.71,10,195.04,39,7606.56,132.12,2453.88
+2024-01-26,P009,Product_9,Beauty,Uttar Pradesh,Kanpur,,706.59,15,600.6,96,57657.6,560.05,3892.8
+2024-02-07,P011,Product_11,Home,Delhi,New Delhi,New Year,828.12,10,745.31,95,70804.45,607.05,13134.7
+2024-01-31,P014,Product_14,Apparel,Delhi,New Delhi,Clearance,878.19,10,790.37,87,68762.19,465.07,28301.1
+2024-03-02,P019,Product_19,Beauty,Rajasthan,Udaipur,New Year,372.18,25,279.13,92,25679.96,255.0,2219.96
+2024-04-19,P001,Product_1,Apparel,Delhi,New Delhi,Summer Sale,223.43,15,189.92,10,1899.2,145.6,443.2
+2024-03-02,P012,Product_12,Apparel,Delhi,New Delhi,Diwali,380.52,30,266.36,44,11719.84,221.5,1973.84
+2024-04-04,P001,Product_1,Apparel,West Bengal,Kolkata,Clearance,887.87,5,843.48,65,54826.2,566.35,18013.45
+2024-02-25,P020,Product_20,Beauty,Uttar Pradesh,Varanasi,Diwali,456.14,10,410.53,55,22579.15,235.87,9606.3
+2024-02-17,P013,Product_13,Beauty,Delhi,New Delhi,Diwali,427.43,15,363.32,22,7993.04,306.68,1246.08
+2024-01-15,P017,Product_17,Apparel,Rajasthan,Jaipur,Clearance,592.51,20,474.01,76,36024.76,434.38,3011.88
+2024-02-08,P001,Product_1,Apparel,Tamil Nadu,Coimbatore,Diwali,279.32,30,195.52,79,15446.08,184.74,851.62
+2024-01-20,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,,606.3,25,454.72,32,14551.04,464.94,-327.04
+2024-03-20,P004,Product_4,Beauty,West Bengal,Kolkata,Clearance,114.24,10,102.82,85,8739.7,73.89,2459.05
+2024-03-23,P019,Product_19,Beauty,Gujarat,Surat,Summer Sale,690.45,0,690.45,76,52474.2,445.31,18630.64
+2024-01-16,P015,Product_15,Beauty,Karnataka,Mysuru,New Year,692.27,15,588.43,99,58254.57,512.22,7544.79
+2024-04-05,P001,Product_1,Apparel,Gujarat,Ahmedabad,Diwali,395.41,25,296.56,68,20166.08,247.07,3365.32
+2024-04-22,P017,Product_17,Apparel,West Bengal,Siliguri,New Year,213.4,15,181.39,13,2358.07,163.67,230.36
+2024-02-29,P007,Product_7,Home,Tamil Nadu,Chennai,Clearance,257.94,25,193.45,83,16056.35,185.94,623.33
+2024-02-08,P003,Product_3,Apparel,Kerala,Thiruvananthapuram,New Year,540.66,15,459.56,95,43658.2,335.66,11770.5
+2024-04-11,P020,Product_20,Beauty,Delhi,New Delhi,Diwali,939.09,25,704.32,77,54232.64,655.95,3724.49
+2024-03-07,P017,Product_17,Apparel,Uttar Pradesh,Kanpur,Diwali,218.49,15,185.72,92,17086.24,120.08,6038.88
+2024-04-05,P012,Product_12,Apparel,Gujarat,Vadodara,Clearance,296.84,5,282.0,98,27636.0,228.85,5208.7
+2024-03-02,P002,Product_2,Apparel,Kerala,Kochi,Diwali,934.41,20,747.53,72,53822.16,623.84,8905.68
+2024-01-10,P015,Product_15,Beauty,Uttar Pradesh,Kanpur,Diwali,228.7,15,194.39,78,15162.42,131.69,4890.6
+2024-02-28,P011,Product_11,Home,Maharashtra,Pune,Diwali,430.65,10,387.58,59,22867.22,258.93,7590.35
+2024-03-29,P006,Product_6,Apparel,West Bengal,Kolkata,,860.61,0,860.61,69,59382.09,475.52,26571.21
+2024-03-24,P008,Product_8,Electronics,Telangana,Warangal,Summer Sale,122.71,20,98.17,31,3043.27,69.39,892.18
+2024-02-14,P003,Product_3,Apparel,Kerala,Thiruvananthapuram,Summer Sale,324.7,20,259.76,22,5714.72,235.57,532.18
+2024-03-17,P005,Product_5,Electronics,Gujarat,Surat,,883.6,30,618.52,49,30307.48,608.09,511.07
+2024-01-15,P016,Product_16,Electronics,Maharashtra,Nagpur,Summer Sale,308.85,5,293.41,36,10562.76,196.89,3474.72
+2024-04-23,P008,Product_8,Electronics,Tamil Nadu,Madurai,Summer Sale,279.55,20,223.64,24,5367.36,180.54,1034.4
+2024-01-08,P007,Product_7,Home,Delhi,New Delhi,New Year,953.65,5,905.97,23,20837.31,560.21,7952.48
+2024-04-10,P005,Product_5,Electronics,Telangana,Warangal,,932.07,30,652.45,59,38494.55,631.0,1265.55
+2024-04-28,P016,Product_16,Electronics,Maharashtra,Nagpur,Clearance,519.67,0,519.67,89,46250.63,369.35,13378.48
+2024-01-30,P017,Product_17,Apparel,Kerala,Thiruvananthapuram,,538.54,25,403.9,82,33119.8,352.14,4244.32
+2024-04-19,P012,Product_12,Apparel,Uttar Pradesh,Lucknow,Diwali,999.6,10,899.64,96,86365.44,612.5,27565.44
+2024-04-03,P019,Product_19,Beauty,Karnataka,Mysuru,,844.8,10,760.32,13,9884.16,593.32,2171.0
+2024-03-23,P001,Product_1,Apparel,Gujarat,Surat,Clearance,284.0,20,227.2,55,12496.0,197.09,1656.05
+2024-04-17,P002,Product_2,Apparel,Kerala,Kochi,Diwali,653.62,30,457.53,73,33399.69,418.64,2838.97
+2024-01-30,P016,Product_16,Electronics,Kerala,Thiruvananthapuram,,551.15,5,523.59,87,45552.33,379.13,12568.02
+2024-04-20,P003,Product_3,Apparel,Karnataka,Bengaluru,Summer Sale,596.04,25,447.03,52,23245.56,464.03,-884.0
+2024-03-20,P005,Product_5,Electronics,West Bengal,Siliguri,Clearance,244.61,30,171.23,99,16951.77,177.62,-632.61
+2024-04-18,P019,Product_19,Beauty,Kerala,Kochi,Diwali,313.73,25,235.3,15,3529.5,200.69,519.15
+2024-01-27,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,New Year,200.43,10,180.39,57,10282.23,111.59,3921.6
+2024-02-11,P017,Product_17,Apparel,West Bengal,Kolkata,Clearance,256.15,10,230.53,65,14984.45,175.01,3608.8
+2024-04-04,P019,Product_19,Beauty,Kerala,Kochi,Clearance,452.88,20,362.3,11,3985.3,303.67,644.93
+2024-03-25,P008,Product_8,Electronics,Maharashtra,Pune,Summer Sale,795.49,10,715.94,32,22910.08,530.54,5932.8
+2024-03-26,P008,Product_8,Electronics,Tamil Nadu,Madurai,Summer Sale,609.2,15,517.82,23,11909.86,474.08,1006.02
+2024-04-24,P010,Product_10,Home,Rajasthan,Udaipur,Diwali,159.55,15,135.62,37,5017.94,115.65,738.89
+2024-01-11,P019,Product_19,Beauty,Karnataka,Hubli,,572.26,0,572.26,49,28040.74,326.38,12048.12
+2024-03-03,P004,Product_4,Beauty,Maharashtra,Mumbai,,363.26,15,308.77,21,6484.17,286.41,469.56
+2024-01-06,P001,Product_1,Apparel,Karnataka,Bengaluru,New Year,137.35,5,130.48,28,3653.44,93.29,1041.32
+2024-04-28,P007,Product_7,Home,Karnataka,Bengaluru,Clearance,710.65,5,675.12,28,18903.36,536.14,3891.44
+2024-02-18,P007,Product_7,Home,Maharashtra,Pune,Diwali,639.66,25,479.75,68,32623.0,387.07,6302.24
+2024-02-27,P010,Product_10,Home,Karnataka,Bengaluru,Diwali,353.45,0,353.45,58,20500.1,225.04,7447.78
+2024-02-27,P010,Product_10,Home,Uttar Pradesh,Kanpur,New Year,744.44,30,521.11,60,31266.6,593.34,-4333.8
+2024-01-01,P014,Product_14,Apparel,Gujarat,Vadodara,New Year,350.32,5,332.8,56,18636.8,221.7,6221.6
+2024-03-03,P018,Product_18,Electronics,Tamil Nadu,Chennai,Clearance,180.09,15,153.08,48,7347.84,135.13,861.6
+2024-01-04,P018,Product_18,Electronics,Tamil Nadu,Chennai,Diwali,986.36,5,937.04,88,82459.52,603.41,29359.44
+2024-01-16,P008,Product_8,Electronics,Maharashtra,Pune,Diwali,278.64,5,264.71,27,7147.17,147.04,3177.09
+2024-01-14,P011,Product_11,Home,West Bengal,Kolkata,Clearance,739.12,20,591.3,31,18330.3,402.93,5839.47
+2024-01-24,P006,Product_6,Apparel,Rajasthan,Jaipur,Summer Sale,503.9,5,478.7,34,16275.8,280.58,6736.08
+2024-03-04,P016,Product_16,Electronics,Karnataka,Mysuru,Summer Sale,523.86,10,471.47,73,34417.31,379.98,6678.77
+2024-01-05,P009,Product_9,Beauty,Tamil Nadu,Coimbatore,Summer Sale,345.74,10,311.17,83,25827.11,266.67,3693.5
+2024-01-15,P008,Product_8,Electronics,Gujarat,Ahmedabad,New Year,203.32,30,142.32,27,3842.64,105.05,1006.29
+2024-02-16,P008,Product_8,Electronics,West Bengal,Siliguri,Summer Sale,516.15,25,387.11,53,20516.83,296.7,4791.73
+2024-01-12,P007,Product_7,Home,Gujarat,Surat,Diwali,462.17,10,415.95,95,39515.25,280.55,12863.0
+2024-04-21,P014,Product_14,Apparel,Karnataka,Mysuru,New Year,918.26,30,642.78,87,55921.86,541.46,8814.84
+2024-01-03,P015,Product_15,Beauty,Rajasthan,Udaipur,New Year,344.47,30,241.13,89,21460.57,247.64,-579.39
+2024-04-25,P002,Product_2,Apparel,Telangana,Hyderabad,New Year,407.9,10,367.11,89,32672.79,309.57,5121.06
+2024-04-25,P020,Product_20,Beauty,West Bengal,Kolkata,Diwali,207.9,5,197.5,62,12245.0,134.25,3921.5
+2024-04-19,P008,Product_8,Electronics,Gujarat,Ahmedabad,,359.15,10,323.24,15,4848.6,281.92,619.8
+2024-03-28,P016,Product_16,Electronics,Karnataka,Mysuru,Diwali,636.47,5,604.65,46,27813.9,438.96,7621.74
+2024-04-16,P001,Product_1,Apparel,Kerala,Thiruvananthapuram,,204.92,0,204.92,5,1024.6,124.29,403.15
+2024-03-31,P009,Product_9,Beauty,Tamil Nadu,Coimbatore,Diwali,409.56,20,327.65,47,15399.55,206.64,5687.47
+2024-04-13,P014,Product_14,Apparel,West Bengal,Kolkata,Clearance,938.4,20,750.72,92,69066.24,714.97,3289.0
+2024-01-10,P003,Product_3,Apparel,Maharashtra,Nagpur,New Year,691.33,30,483.93,67,32423.31,430.88,3554.35
+2024-03-01,P007,Product_7,Home,Karnataka,Mysuru,Diwali,394.12,10,354.71,72,25539.12,294.79,4314.24
+2024-02-25,P011,Product_11,Home,Uttar Pradesh,Lucknow,Diwali,801.99,5,761.89,53,40380.17,512.63,13210.78
+2024-02-28,P003,Product_3,Apparel,Kerala,Kochi,Diwali,182.95,30,128.06,93,11909.58,103.89,2247.81
+2024-02-20,P011,Product_11,Home,Telangana,Warangal,Summer Sale,635.36,25,476.52,65,30973.8,451.05,1655.55
+2024-02-08,P020,Product_20,Beauty,Rajasthan,Udaipur,,692.85,10,623.57,92,57368.44,392.79,21231.76
+2024-03-01,P007,Product_7,Home,West Bengal,Kolkata,Clearance,255.27,5,242.51,72,17460.72,150.33,6636.96
+2024-03-13,P014,Product_14,Apparel,Maharashtra,Nagpur,Diwali,321.62,30,225.13,92,20711.96,255.71,-2813.36
+2024-04-20,P008,Product_8,Electronics,Karnataka,Hubli,Summer Sale,128.6,5,122.17,58,7085.86,80.94,2391.34
+2024-03-16,P018,Product_18,Electronics,Maharashtra,Mumbai,New Year,229.88,30,160.92,31,4988.52,118.58,1312.54
+2024-04-20,P008,Product_8,Electronics,Tamil Nadu,Madurai,Diwali,571.23,30,399.86,22,8796.92,324.43,1659.46
+2024-02-11,P009,Product_9,Beauty,Gujarat,Vadodara,Summer Sale,616.99,5,586.14,63,36926.82,435.98,9460.08
+2024-04-08,P008,Product_8,Electronics,Maharashtra,Pune,Summer Sale,841.2,25,630.9,81,51102.9,439.89,15471.81
+2024-01-17,P001,Product_1,Apparel,Tamil Nadu,Madurai,,415.74,5,394.95,8,3159.6,227.61,1338.72
+2024-02-07,P004,Product_4,Beauty,Rajasthan,Jaipur,Diwali,395.36,30,276.75,90,24907.5,216.19,5450.4
+2024-02-04,P004,Product_4,Beauty,West Bengal,Siliguri,,520.02,15,442.02,78,34477.56,402.43,3088.02
+2024-02-23,P017,Product_17,Apparel,Karnataka,Hubli,Diwali,299.11,10,269.2,72,19382.4,222.1,3391.2
+2024-04-26,P010,Product_10,Home,Tamil Nadu,Coimbatore,Summer Sale,785.7,10,707.13,13,9192.69,501.07,2678.78
+2024-03-26,P004,Product_4,Beauty,Kerala,Thiruvananthapuram,Summer Sale,283.82,0,283.82,60,17029.2,152.01,7908.6
+2024-01-26,P003,Product_3,Apparel,Telangana,Hyderabad,New Year,168.91,5,160.46,23,3690.58,111.39,1128.61
+2024-03-10,P016,Product_16,Electronics,Kerala,Kochi,New Year,943.4,5,896.23,90,80660.7,587.1,27821.7
+2024-01-14,P007,Product_7,Home,Kerala,Kochi,New Year,688.74,30,482.12,18,8678.16,412.99,1244.34
+2024-04-28,P003,Product_3,Apparel,Kerala,Thiruvananthapuram,Summer Sale,860.38,20,688.3,7,4818.1,538.0,1052.1
+2024-04-17,P013,Product_13,Beauty,Rajasthan,Udaipur,Summer Sale,561.07,0,561.07,63,35347.41,438.5,7721.91
+2024-04-09,P016,Product_16,Electronics,Karnataka,Bengaluru,Summer Sale,724.0,25,543.0,35,19005.0,439.03,3638.95
+2024-01-24,P001,Product_1,Apparel,Telangana,Warangal,Summer Sale,713.22,25,534.91,48,25675.68,366.62,8077.92
+2024-02-19,P020,Product_20,Beauty,Rajasthan,Jaipur,Diwali,650.65,30,455.45,17,7742.65,500.86,-771.97
+2024-03-10,P016,Product_16,Electronics,Delhi,New Delhi,,195.29,5,185.53,32,5936.96,141.59,1406.08
+2024-03-19,P007,Product_7,Home,Delhi,New Delhi,Diwali,708.24,10,637.42,14,8923.88,413.21,3138.94
+2024-03-20,P001,Product_1,Apparel,West Bengal,Siliguri,,455.73,10,410.16,68,27890.88,303.93,7223.64
+2024-03-30,P015,Product_15,Beauty,Rajasthan,Jaipur,Summer Sale,844.57,25,633.43,62,39272.66,461.88,10636.1
+2024-04-27,P008,Product_8,Electronics,Telangana,Warangal,Clearance,251.38,10,226.24,66,14931.84,167.7,3863.64
+2024-03-13,P017,Product_17,Apparel,Telangana,Warangal,Clearance,385.93,5,366.63,15,5499.45,277.66,1334.55
+2024-04-29,P005,Product_5,Electronics,Gujarat,Surat,New Year,381.75,20,305.4,66,20156.4,292.36,860.64
+2024-01-30,P020,Product_20,Beauty,Maharashtra,Mumbai,Summer Sale,518.15,30,362.7,57,20673.9,303.49,3374.97
+2024-04-26,P013,Product_13,Beauty,Rajasthan,Udaipur,New Year,777.16,30,544.01,18,9792.18,398.62,2617.02
+2024-02-14,P009,Product_9,Beauty,Kerala,Kochi,New Year,485.61,25,364.21,60,21852.6,307.47,3404.4
+2024-04-19,P011,Product_11,Home,Maharashtra,Nagpur,Summer Sale,692.25,25,519.19,94,48803.86,458.33,5720.84
+2024-02-01,P016,Product_16,Electronics,Maharashtra,Mumbai,Clearance,196.85,5,187.01,93,17391.93,152.46,3213.15
+2024-04-05,P013,Product_13,Beauty,West Bengal,Siliguri,Clearance,490.39,0,490.39,15,7355.85,316.4,2609.85
+2024-04-21,P009,Product_9,Beauty,Delhi,New Delhi,Clearance,346.95,15,294.91,74,21823.34,233.12,4572.46
+2024-01-11,P011,Product_11,Home,Uttar Pradesh,Varanasi,Summer Sale,895.92,20,716.74,63,45154.62,521.07,12327.21
+2024-03-08,P014,Product_14,Apparel,Telangana,Warangal,New Year,741.56,0,741.56,96,71189.76,585.63,14969.28
+2024-03-26,P004,Product_4,Beauty,West Bengal,Kolkata,New Year,310.51,30,217.36,83,18040.88,187.47,2480.87
+2024-03-24,P020,Product_20,Beauty,Kerala,Kochi,,838.38,20,670.7,35,23474.5,657.31,468.65
+2024-04-15,P011,Product_11,Home,Gujarat,Surat,Summer Sale,444.03,15,377.43,11,4151.73,282.55,1043.68
+2024-01-14,P007,Product_7,Home,Telangana,Hyderabad,Clearance,123.19,30,86.23,60,5173.8,68.66,1054.2
+2024-03-23,P006,Product_6,Apparel,Tamil Nadu,Madurai,Clearance,719.24,0,719.24,73,52504.52,398.71,23398.69
+2024-03-27,P001,Product_1,Apparel,Gujarat,Ahmedabad,,898.41,15,763.65,69,52691.85,532.01,15983.16
+2024-04-29,P013,Product_13,Beauty,Delhi,New Delhi,Clearance,475.47,25,356.6,28,9984.8,256.35,2807.0
+2024-04-15,P004,Product_4,Beauty,Delhi,New Delhi,Clearance,476.33,5,452.51,25,11312.75,352.09,2510.5
+2024-02-10,P006,Product_6,Apparel,Tamil Nadu,Coimbatore,Summer Sale,175.71,30,123.0,58,7134.0,105.81,997.02
+2024-04-07,P020,Product_20,Beauty,Delhi,New Delhi,New Year,147.15,10,132.44,99,13111.56,100.17,3194.73
+2024-01-21,P013,Product_13,Beauty,West Bengal,Kolkata,New Year,169.13,5,160.67,75,12050.25,85.77,5617.5
+2024-03-04,P013,Product_13,Beauty,Gujarat,Surat,Diwali,953.43,30,667.4,7,4671.8,515.46,1063.58
+2024-02-11,P004,Product_4,Beauty,Uttar Pradesh,Lucknow,Diwali,351.9,0,351.9,2,703.8,273.76,156.28
+2024-04-24,P018,Product_18,Electronics,Tamil Nadu,Coimbatore,Summer Sale,934.22,0,934.22,75,70066.5,584.82,26205.0
+2024-01-06,P008,Product_8,Electronics,Tamil Nadu,Chennai,New Year,453.61,30,317.53,59,18734.27,306.18,669.65
+2024-02-11,P006,Product_6,Apparel,Rajasthan,Jaipur,Summer Sale,803.45,20,642.76,47,30209.72,461.47,8520.63
+2024-04-27,P020,Product_20,Beauty,Rajasthan,Jaipur,Summer Sale,629.52,10,566.57,77,43625.89,421.69,11155.76
+2024-03-19,P008,Product_8,Electronics,Gujarat,Vadodara,Diwali,589.78,10,530.8,59,31317.2,389.61,8330.21
+2024-04-28,P005,Product_5,Electronics,Delhi,New Delhi,Clearance,344.34,15,292.69,7,2048.83,185.8,748.23
+2024-02-12,P019,Product_19,Beauty,Maharashtra,Pune,New Year,594.88,20,475.9,12,5710.8,370.7,1262.4
+2024-03-25,P016,Product_16,Electronics,Maharashtra,Pune,New Year,825.08,20,660.06,81,53464.86,468.5,15516.36
+2024-01-28,P014,Product_14,Apparel,Telangana,Hyderabad,Diwali,178.83,5,169.89,90,15290.1,94.53,6782.4
+2024-01-30,P015,Product_15,Beauty,Kerala,Thiruvananthapuram,New Year,145.5,10,130.95,47,6154.65,110.76,948.93
+2024-04-18,P017,Product_17,Apparel,Kerala,Thiruvananthapuram,New Year,351.77,5,334.18,14,4678.52,255.29,1104.46
+2024-01-15,P016,Product_16,Electronics,Maharashtra,Mumbai,New Year,883.57,25,662.68,37,24519.16,634.63,1037.85
+2024-03-17,P001,Product_1,Apparel,Karnataka,Hubli,New Year,455.12,0,455.12,46,20935.52,303.03,6996.14
+2024-02-24,P012,Product_12,Apparel,Karnataka,Bengaluru,New Year,614.8,10,553.32,64,35412.48,362.07,12240.0
+2024-03-03,P018,Product_18,Electronics,Delhi,New Delhi,New Year,238.51,30,166.96,20,3339.2,171.77,-96.2
+2024-01-18,P005,Product_5,Electronics,Rajasthan,Udaipur,Diwali,424.97,5,403.72,22,8881.84,228.49,3855.06
+2024-03-27,P002,Product_2,Apparel,Maharashtra,Pune,Summer Sale,151.01,0,151.01,30,4530.3,93.26,1732.5
+2024-04-02,P007,Product_7,Home,Maharashtra,Nagpur,Diwali,822.57,10,740.31,43,31833.33,569.59,7340.96
+2024-02-05,P001,Product_1,Apparel,Delhi,New Delhi,Diwali,410.34,10,369.31,52,19204.12,315.43,2801.76
+2024-04-25,P009,Product_9,Beauty,Delhi,New Delhi,,209.9,20,167.92,19,3190.48,145.76,421.04
+2024-02-01,P011,Product_11,Home,Kerala,Thiruvananthapuram,Clearance,705.15,25,528.86,57,30145.02,382.43,8346.51
+2024-03-27,P003,Product_3,Apparel,Uttar Pradesh,Lucknow,Summer Sale,841.92,15,715.63,82,58681.66,432.4,23224.86
+2024-03-08,P007,Product_7,Home,West Bengal,Kolkata,,764.16,5,725.95,37,26860.15,400.88,12027.59
+2024-01-09,P013,Product_13,Beauty,Karnataka,Mysuru,,343.58,15,292.04,34,9929.36,174.88,3983.44
+2024-04-15,P015,Product_15,Beauty,Karnataka,Bengaluru,Summer Sale,240.58,15,204.49,7,1431.43,128.75,530.18
+2024-03-01,P001,Product_1,Apparel,Tamil Nadu,Madurai,Diwali,814.44,30,570.11,35,19953.85,548.4,759.85
+2024-03-06,P007,Product_7,Home,Tamil Nadu,Madurai,Diwali,674.11,25,505.58,95,48030.1,431.64,7024.3
+2024-02-29,P018,Product_18,Electronics,Maharashtra,Nagpur,Summer Sale,490.93,15,417.29,10,4172.9,308.42,1088.7
+2024-02-15,P016,Product_16,Electronics,Rajasthan,Jaipur,,698.83,15,594.01,96,57024.96,527.74,6361.92
+2024-01-01,P003,Product_3,Apparel,Uttar Pradesh,Varanasi,Diwali,121.18,25,90.89,31,2817.59,85.64,162.75
+2024-01-26,P019,Product_19,Beauty,Gujarat,Vadodara,New Year,216.26,15,183.82,85,15624.7,158.7,2135.2
+2024-04-06,P008,Product_8,Electronics,Tamil Nadu,Coimbatore,,571.24,30,399.87,12,4798.44,292.5,1288.44
+2024-04-01,P020,Product_20,Beauty,Delhi,New Delhi,Diwali,543.01,20,434.41,96,41703.36,319.41,11040.0
+2024-01-24,P001,Product_1,Apparel,Karnataka,Hubli,Diwali,802.83,0,802.83,71,57000.93,462.36,24173.37
+2024-02-09,P012,Product_12,Apparel,Karnataka,Mysuru,Summer Sale,560.47,30,392.33,19,7454.27,301.41,1727.48
+2024-01-12,P002,Product_2,Apparel,Gujarat,Surat,,183.94,0,183.94,75,13795.5,138.7,3393.0
+2024-03-06,P019,Product_19,Beauty,Delhi,New Delhi,,236.6,0,236.6,27,6388.2,160.48,2055.24
+2024-01-30,P012,Product_12,Apparel,Kerala,Kochi,New Year,789.25,30,552.47,2,1104.94,530.86,43.22
+2024-01-10,P007,Product_7,Home,Rajasthan,Udaipur,New Year,440.29,5,418.28,28,11711.84,321.66,2705.36
+2024-04-29,P018,Product_18,Electronics,Tamil Nadu,Coimbatore,New Year,723.12,5,686.96,40,27478.4,431.81,10206.0
+2024-04-27,P003,Product_3,Apparel,Delhi,New Delhi,Clearance,772.37,15,656.51,42,27573.42,444.36,8910.3
+2024-04-23,P017,Product_17,Apparel,Rajasthan,Jaipur,Diwali,217.88,5,206.99,22,4553.78,116.91,1981.76
+2024-02-01,P017,Product_17,Apparel,Gujarat,Surat,,140.5,10,126.45,41,5184.45,112.27,581.38
+2024-03-13,P018,Product_18,Electronics,Telangana,Warangal,New Year,530.68,10,477.61,66,31522.26,330.83,9687.48
+2024-04-07,P019,Product_19,Beauty,West Bengal,Kolkata,Clearance,518.8,15,440.98,73,32191.54,356.32,6180.18
+2024-03-05,P002,Product_2,Apparel,Tamil Nadu,Coimbatore,,857.81,10,772.03,39,30109.17,591.39,7044.96
+2024-01-27,P003,Product_3,Apparel,Uttar Pradesh,Varanasi,Clearance,705.56,5,670.28,36,24130.08,389.75,10099.08
+2024-01-29,P011,Product_11,Home,Gujarat,Surat,,670.07,10,603.06,57,34374.42,529.08,4216.86
+2024-04-12,P013,Product_13,Beauty,Kerala,Thiruvananthapuram,New Year,825.38,0,825.38,28,23110.64,453.77,10405.08
+2024-04-10,P012,Product_12,Apparel,Delhi,New Delhi,Diwali,550.25,5,522.74,10,5227.4,365.37,1573.7
+2024-02-27,P001,Product_1,Apparel,Karnataka,Bengaluru,Summer Sale,640.82,30,448.57,14,6279.98,474.25,-359.52
+2024-02-05,P001,Product_1,Apparel,Kerala,Kochi,New Year,465.93,20,372.74,70,26091.8,332.87,2790.9
+2024-02-25,P012,Product_12,Apparel,Maharashtra,Mumbai,New Year,754.15,5,716.44,80,57315.2,602.06,9150.4
+2024-01-20,P007,Product_7,Home,Maharashtra,Nagpur,,812.97,20,650.38,33,21462.54,610.75,1307.79
+2024-04-18,P020,Product_20,Beauty,Tamil Nadu,Madurai,New Year,951.33,10,856.2,67,57365.4,548.05,20646.05
+2024-01-21,P011,Product_11,Home,Telangana,Hyderabad,Diwali,344.76,20,275.81,59,16272.79,267.98,461.97
+2024-03-18,P006,Product_6,Apparel,Maharashtra,Pune,Diwali,670.34,20,536.27,78,41829.06,424.13,8746.92
+2024-03-27,P002,Product_2,Apparel,Uttar Pradesh,Kanpur,Diwali,755.9,30,529.13,16,8466.08,582.66,-856.48
+2024-01-15,P005,Product_5,Electronics,Delhi,New Delhi,,600.92,20,480.74,71,34132.54,323.22,11183.92
+2024-02-13,P013,Product_13,Beauty,West Bengal,Siliguri,Diwali,184.98,5,175.73,41,7204.93,118.05,2364.88
+2024-04-13,P015,Product_15,Beauty,Karnataka,Mysuru,Clearance,684.81,5,650.57,27,17565.39,425.0,6090.39
+2024-04-06,P015,Product_15,Beauty,Uttar Pradesh,Lucknow,,359.43,10,323.49,78,25232.22,192.46,10220.34
+2024-03-23,P012,Product_12,Apparel,Uttar Pradesh,Lucknow,Summer Sale,112.27,5,106.66,99,10559.34,68.15,3812.49
+2024-02-09,P008,Product_8,Electronics,Uttar Pradesh,Kanpur,Diwali,233.4,25,175.05,62,10853.1,154.53,1272.24
+2024-03-13,P001,Product_1,Apparel,Kerala,Thiruvananthapuram,Summer Sale,904.96,0,904.96,84,76016.64,606.07,25106.76
+2024-03-06,P011,Product_11,Home,Karnataka,Bengaluru,,597.8,30,418.46,25,10461.5,367.77,1267.25
+2024-04-28,P010,Product_10,Home,Gujarat,Vadodara,Diwali,646.42,0,646.42,91,58824.22,369.81,25171.51
+2024-03-15,P004,Product_4,Beauty,West Bengal,Kolkata,Summer Sale,532.04,30,372.43,44,16386.92,281.45,4003.12
+2024-01-29,P019,Product_19,Beauty,Karnataka,Hubli,Clearance,846.75,30,592.72,54,32006.88,536.19,3052.62
+2024-02-15,P009,Product_9,Beauty,Telangana,Warangal,Diwali,178.88,5,169.94,16,2719.04,142.87,433.12
+2024-01-01,P001,Product_1,Apparel,Telangana,Warangal,Summer Sale,517.43,15,439.82,58,25509.56,332.68,6214.12
+2024-01-08,P016,Product_16,Electronics,Gujarat,Vadodara,Clearance,462.43,25,346.82,29,10057.78,350.46,-105.56
+2024-02-29,P010,Product_10,Home,Gujarat,Vadodara,New Year,383.72,30,268.6,51,13698.6,233.84,1772.76
+2024-03-24,P008,Product_8,Electronics,Gujarat,Vadodara,Diwali,215.49,20,172.39,91,15687.49,115.47,5179.72
+2024-04-24,P016,Product_16,Electronics,Kerala,Kochi,Summer Sale,730.55,10,657.5,73,47997.5,541.5,8468.0
+2024-01-13,P015,Product_15,Beauty,Uttar Pradesh,Lucknow,Diwali,549.96,30,384.97,91,35032.27,377.14,712.53
+2024-02-21,P003,Product_3,Apparel,Uttar Pradesh,Varanasi,,706.33,5,671.01,57,38247.57,413.46,14680.35
+2024-03-12,P013,Product_13,Beauty,Gujarat,Ahmedabad,Summer Sale,542.85,30,380.0,86,32680.0,309.3,6080.2
+2024-04-24,P003,Product_3,Apparel,Delhi,New Delhi,,212.99,20,170.39,42,7156.38,139.95,1278.48
+2024-01-09,P013,Product_13,Beauty,Uttar Pradesh,Kanpur,Summer Sale,530.64,10,477.58,43,20535.94,309.55,7225.29
+2024-02-20,P005,Product_5,Electronics,Maharashtra,Pune,Summer Sale,177.43,15,150.82,83,12518.06,133.02,1477.4
+2024-01-11,P015,Product_15,Beauty,Tamil Nadu,Chennai,Summer Sale,627.03,5,595.68,95,56589.6,326.06,25613.9
+2024-04-07,P005,Product_5,Electronics,Rajasthan,Udaipur,,674.0,15,572.9,27,15468.3,525.56,1278.18
+2024-04-25,P020,Product_20,Beauty,Karnataka,Hubli,,548.32,5,520.9,64,33337.6,339.82,11589.12
+2024-04-08,P007,Product_7,Home,Delhi,New Delhi,New Year,376.99,0,376.99,42,15833.58,205.9,7185.78
+2024-02-16,P007,Product_7,Home,Gujarat,Vadodara,Summer Sale,828.93,0,828.93,59,48906.87,448.21,22462.48
+2024-03-08,P003,Product_3,Apparel,Karnataka,Hubli,,428.34,10,385.51,11,4240.61,330.82,601.59
+2024-01-12,P003,Product_3,Apparel,Uttar Pradesh,Lucknow,Diwali,270.94,10,243.85,26,6340.1,198.09,1189.76
+2024-03-28,P010,Product_10,Home,Rajasthan,Jaipur,Diwali,422.76,20,338.21,37,12513.77,214.04,4594.29
+2024-04-27,P017,Product_17,Apparel,Tamil Nadu,Madurai,Clearance,931.7,30,652.19,13,8478.47,680.1,-362.83
+2024-02-18,P002,Product_2,Apparel,Telangana,Hyderabad,Summer Sale,372.72,30,260.9,4,1043.6,230.63,121.08
+2024-04-14,P003,Product_3,Apparel,Gujarat,Surat,Clearance,708.49,5,673.07,11,7403.77,432.89,2641.98
+2024-04-16,P017,Product_17,Apparel,Kerala,Kochi,New Year,325.79,5,309.5,23,7118.5,193.97,2657.19
+2024-01-29,P012,Product_12,Apparel,Telangana,Warangal,,972.39,30,680.67,26,17697.42,724.17,-1131.0
+2024-02-04,P003,Product_3,Apparel,Karnataka,Bengaluru,New Year,405.37,15,344.56,36,12404.16,222.88,4380.48
+2024-04-19,P002,Product_2,Apparel,West Bengal,Kolkata,Clearance,692.29,0,692.29,17,11768.93,368.23,5509.02
+2024-04-19,P020,Product_20,Beauty,Tamil Nadu,Chennai,Clearance,419.26,25,314.44,93,29242.92,319.39,-460.35
+2024-02-16,P006,Product_6,Apparel,Rajasthan,Udaipur,Summer Sale,894.95,5,850.2,51,43360.2,447.53,20536.17
+2024-03-29,P016,Product_16,Electronics,Uttar Pradesh,Kanpur,,654.79,25,491.09,38,18661.42,416.85,2821.12
+2024-04-22,P019,Product_19,Beauty,West Bengal,Siliguri,New Year,946.45,10,851.81,22,18739.82,511.66,7483.3
+2024-04-21,P015,Product_15,Beauty,Gujarat,Surat,New Year,236.29,15,200.85,10,2008.5,136.75,641.0
+2024-01-01,P013,Product_13,Beauty,Karnataka,Hubli,,623.56,0,623.56,91,56743.96,375.02,22617.14
+2024-01-17,P001,Product_1,Apparel,Gujarat,Vadodara,Clearance,246.28,15,209.34,60,12560.4,135.16,4450.8
+2024-03-11,P004,Product_4,Beauty,Karnataka,Mysuru,Summer Sale,657.97,5,625.07,90,56256.3,371.41,22829.4
+2024-01-08,P016,Product_16,Electronics,Uttar Pradesh,Varanasi,Clearance,635.71,10,572.14,73,41766.22,336.66,17190.04
+2024-04-25,P014,Product_14,Apparel,Maharashtra,Mumbai,Clearance,410.93,5,390.38,83,32401.54,241.89,12324.67
+2024-01-18,P018,Product_18,Electronics,Maharashtra,Nagpur,Diwali,171.35,15,145.65,27,3932.55,116.15,796.5
+2024-02-16,P009,Product_9,Beauty,Telangana,Warangal,New Year,254.88,20,203.9,29,5913.1,138.41,1899.21
+2024-01-17,P014,Product_14,Apparel,Rajasthan,Udaipur,Clearance,882.94,10,794.65,31,24634.15,599.25,6057.4
+2024-02-08,P016,Product_16,Electronics,Telangana,Hyderabad,Diwali,571.3,10,514.17,46,23651.82,415.07,4558.6
+2024-03-15,P002,Product_2,Apparel,Uttar Pradesh,Varanasi,Clearance,552.24,0,552.24,30,16567.2,289.4,7885.2
+2024-01-18,P017,Product_17,Apparel,Rajasthan,Jaipur,New Year,812.27,0,812.27,12,9747.24,608.06,2450.52
+2024-02-27,P008,Product_8,Electronics,Rajasthan,Jaipur,Diwali,376.28,10,338.65,71,24044.15,264.73,5248.32
+2024-03-10,P013,Product_13,Beauty,Maharashtra,Nagpur,Summer Sale,988.97,10,890.07,90,80106.3,547.04,30872.7
+2024-04-10,P020,Product_20,Beauty,Kerala,Thiruvananthapuram,Clearance,643.0,15,546.55,24,13117.2,399.71,3524.16
+2024-02-02,P015,Product_15,Beauty,Karnataka,Mysuru,,480.39,25,360.29,30,10808.7,337.08,696.3
+2024-01-27,P002,Product_2,Apparel,Rajasthan,Udaipur,New Year,234.23,10,210.81,12,2529.72,183.91,322.8
+2024-01-29,P012,Product_12,Apparel,Rajasthan,Jaipur,,407.66,15,346.51,21,7276.71,205.41,2963.1
+2024-01-02,P018,Product_18,Electronics,Uttar Pradesh,Lucknow,Diwali,352.3,5,334.69,62,20750.78,213.3,7526.18
+2024-01-03,P003,Product_3,Apparel,Maharashtra,Nagpur,,679.56,0,679.56,44,29900.64,350.9,14461.04
+2024-02-06,P006,Product_6,Apparel,Telangana,Warangal,,270.36,30,189.25,82,15518.5,166.26,1885.18
+2024-01-11,P020,Product_20,Beauty,Karnataka,Mysuru,Summer Sale,914.98,0,914.98,59,53983.82,511.53,23803.55
+2024-04-07,P015,Product_15,Beauty,Karnataka,Mysuru,Clearance,843.71,10,759.34,82,62265.88,488.8,22184.28
+2024-01-06,P017,Product_17,Apparel,Tamil Nadu,Chennai,New Year,819.81,10,737.83,22,16232.26,463.56,6033.94
+2024-01-16,P016,Product_16,Electronics,Tamil Nadu,Madurai,New Year,519.5,30,363.65,57,20728.05,262.02,5792.91
+2024-04-01,P005,Product_5,Electronics,Rajasthan,Jaipur,New Year,879.66,0,879.66,39,34306.74,599.51,10925.85
+2024-02-14,P003,Product_3,Apparel,Tamil Nadu,Madurai,,112.9,5,107.25,49,5255.25,75.81,1540.56
+2024-02-11,P014,Product_14,Apparel,Rajasthan,Udaipur,New Year,837.65,15,712.0,69,49128.0,570.7,9749.7
+2024-02-08,P017,Product_17,Apparel,Rajasthan,Jaipur,Clearance,355.03,15,301.78,59,17805.02,201.67,5906.49
+2024-04-20,P014,Product_14,Apparel,Delhi,New Delhi,New Year,436.43,5,414.61,71,29437.31,276.06,9837.05
+2024-03-19,P015,Product_15,Beauty,Karnataka,Hubli,Summer Sale,228.66,30,160.06,10,1600.6,128.21,318.5
+2024-03-17,P013,Product_13,Beauty,West Bengal,Kolkata,Summer Sale,638.21,25,478.66,12,5743.92,395.27,1000.68
+2024-04-28,P008,Product_8,Electronics,West Bengal,Kolkata,Clearance,957.17,5,909.31,67,60923.77,588.5,21494.27
+2024-03-25,P010,Product_10,Home,West Bengal,Siliguri,Diwali,274.75,25,206.06,47,9684.82,179.06,1269.0
+2024-03-17,P014,Product_14,Apparel,Uttar Pradesh,Lucknow,Clearance,123.23,25,92.42,8,739.36,82.83,76.72
+2024-03-17,P003,Product_3,Apparel,Karnataka,Mysuru,Summer Sale,995.12,30,696.58,9,6269.22,664.11,292.23
+2024-04-11,P014,Product_14,Apparel,Delhi,New Delhi,Summer Sale,202.19,5,192.08,71,13637.68,107.04,6037.84
+2024-04-10,P020,Product_20,Beauty,Telangana,Hyderabad,Clearance,840.11,25,630.08,22,13861.76,556.47,1619.42
+2024-04-19,P011,Product_11,Home,Maharashtra,Pune,Diwali,506.07,15,430.16,10,4301.6,396.65,335.1
+2024-03-29,P007,Product_7,Home,Telangana,Warangal,Summer Sale,508.85,0,508.85,89,45287.65,397.45,9914.6
+2024-03-18,P019,Product_19,Beauty,Karnataka,Hubli,Summer Sale,214.25,25,160.69,26,4177.94,155.77,127.92
+2024-04-20,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,,321.26,25,240.94,23,5541.62,256.0,-346.38
+2024-01-13,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,Diwali,755.91,0,755.91,25,18897.75,410.28,8640.75
+2024-02-29,P009,Product_9,Beauty,Delhi,New Delhi,Diwali,182.03,5,172.93,28,4842.04,95.21,2176.16
+2024-01-27,P008,Product_8,Electronics,Tamil Nadu,Chennai,New Year,252.89,30,177.02,92,16285.84,175.14,172.96
+2024-03-24,P018,Product_18,Electronics,West Bengal,Kolkata,New Year,789.37,20,631.5,9,5683.5,493.07,1245.87
+2024-04-07,P001,Product_1,Apparel,Tamil Nadu,Chennai,Diwali,621.66,25,466.25,68,31705.0,343.86,8322.52
+2024-03-20,P008,Product_8,Electronics,Maharashtra,Mumbai,Clearance,137.29,20,109.83,26,2855.58,93.33,429.0
+2024-03-09,P011,Product_11,Home,Tamil Nadu,Madurai,Clearance,966.84,10,870.16,94,81795.04,625.66,22983.0
+2024-03-06,P015,Product_15,Beauty,Uttar Pradesh,Lucknow,Clearance,187.27,30,131.09,82,10749.38,138.44,-602.7
+2024-03-03,P003,Product_3,Apparel,Uttar Pradesh,Kanpur,Diwali,628.93,10,566.04,45,25471.8,404.1,7287.3
+2024-02-24,P016,Product_16,Electronics,Karnataka,Hubli,Clearance,803.47,20,642.78,77,49494.06,469.37,13352.57
+2024-01-26,P004,Product_4,Beauty,Uttar Pradesh,Kanpur,New Year,804.18,20,643.34,35,22516.9,480.48,5700.1
+2024-04-14,P019,Product_19,Beauty,West Bengal,Kolkata,Summer Sale,886.88,30,620.82,45,27936.9,503.21,5292.45
+2024-01-23,P011,Product_11,Home,Delhi,New Delhi,,667.65,5,634.27,43,27273.61,529.76,4493.93
+2024-02-24,P015,Product_15,Beauty,Uttar Pradesh,Kanpur,Diwali,115.01,15,97.76,19,1857.44,69.04,545.68
+2024-01-19,P009,Product_9,Beauty,Delhi,New Delhi,Summer Sale,345.39,10,310.85,60,18651.0,232.62,4693.8
+2024-02-18,P011,Product_11,Home,Rajasthan,Udaipur,Diwali,569.7,0,569.7,52,29624.4,432.93,7112.04
+2024-04-08,P001,Product_1,Apparel,Telangana,Hyderabad,,961.48,10,865.33,99,85667.67,521.12,34076.79
+2024-03-27,P018,Product_18,Electronics,West Bengal,Siliguri,,513.68,10,462.31,38,17567.78,318.9,5449.58
+2024-04-21,P016,Product_16,Electronics,Rajasthan,Udaipur,Summer Sale,611.7,0,611.7,22,13457.4,330.66,6182.88
+2024-04-17,P004,Product_4,Beauty,Uttar Pradesh,Kanpur,New Year,792.03,25,594.02,45,26730.9,427.62,7488.0
+2024-04-13,P018,Product_18,Electronics,Delhi,New Delhi,Clearance,757.16,30,530.01,86,45580.86,578.38,-4159.82
+2024-04-24,P017,Product_17,Apparel,Karnataka,Hubli,Clearance,214.81,15,182.59,65,11868.35,130.24,3402.75
+2024-04-05,P016,Product_16,Electronics,Delhi,New Delhi,New Year,702.3,15,596.95,43,25668.85,498.79,4220.88
+2024-04-06,P007,Product_7,Home,Uttar Pradesh,Lucknow,Diwali,422.03,10,379.83,18,6836.94,283.89,1726.92
+2024-02-13,P006,Product_6,Apparel,Telangana,Warangal,Clearance,690.31,10,621.28,23,14289.44,410.39,4850.47
+2024-02-11,P011,Product_11,Home,Karnataka,Bengaluru,Diwali,289.1,10,260.19,47,12228.93,146.74,5332.15
+2024-01-06,P020,Product_20,Beauty,Tamil Nadu,Chennai,New Year,525.72,25,394.29,48,18925.92,351.79,2040.0
+2024-03-30,P002,Product_2,Apparel,Kerala,Thiruvananthapuram,Clearance,397.5,15,337.88,57,19259.16,293.7,2518.26
+2024-03-27,P012,Product_12,Apparel,Uttar Pradesh,Kanpur,Diwali,561.86,20,449.49,45,20227.05,363.22,3882.15
+2024-02-10,P012,Product_12,Apparel,Delhi,New Delhi,Clearance,385.57,10,347.01,92,31924.92,262.11,7810.8
+2024-01-06,P012,Product_12,Apparel,Telangana,Warangal,,264.48,15,224.81,58,13038.98,132.75,5339.48
+2024-03-15,P010,Product_10,Home,Rajasthan,Udaipur,,917.21,20,733.77,38,27883.26,483.73,9501.52
+2024-04-26,P016,Product_16,Electronics,West Bengal,Siliguri,New Year,626.35,10,563.72,40,22548.8,337.34,9055.2
+2024-03-04,P020,Product_20,Beauty,Kerala,Kochi,New Year,524.48,25,393.36,24,9440.64,267.11,3030.0
+2024-03-02,P018,Product_18,Electronics,Tamil Nadu,Coimbatore,Summer Sale,595.48,25,446.61,88,39301.68,390.88,4904.24
+2024-04-16,P019,Product_19,Beauty,Maharashtra,Mumbai,,677.88,30,474.52,25,11863.0,343.53,3274.75
+2024-01-19,P010,Product_10,Home,Maharashtra,Mumbai,Clearance,629.28,30,440.5,16,7048.0,427.33,210.72
+2024-04-24,P019,Product_19,Beauty,Karnataka,Hubli,New Year,827.56,0,827.56,25,20689.0,599.95,5690.25
+2024-02-03,P011,Product_11,Home,Telangana,Warangal,Summer Sale,330.17,30,231.12,42,9707.04,182.99,2021.46
+2024-03-29,P007,Product_7,Home,Rajasthan,Jaipur,Diwali,263.05,30,184.13,55,10127.15,161.89,1223.2
+2024-03-10,P004,Product_4,Beauty,Karnataka,Hubli,Summer Sale,599.62,0,599.62,6,3597.72,405.88,1162.44
+2024-01-31,P010,Product_10,Home,Maharashtra,Pune,,653.88,10,588.49,48,28247.52,361.73,10884.48
+2024-01-18,P004,Product_4,Beauty,West Bengal,Kolkata,Summer Sale,254.65,0,254.65,30,7639.5,181.94,2181.3
+2024-01-04,P018,Product_18,Electronics,Tamil Nadu,Coimbatore,Diwali,354.96,0,354.96,73,25912.08,241.89,8254.11
+2024-01-26,P003,Product_3,Apparel,Gujarat,Ahmedabad,Clearance,684.44,15,581.77,9,5235.93,405.63,1585.26
+2024-02-21,P004,Product_4,Beauty,Karnataka,Bengaluru,New Year,939.48,5,892.51,16,14280.16,563.53,5263.68
+2024-01-18,P009,Product_9,Beauty,Kerala,Kochi,New Year,736.31,0,736.31,5,3681.55,492.87,1217.2
+2024-02-11,P006,Product_6,Apparel,Karnataka,Bengaluru,Clearance,897.32,0,897.32,93,83450.76,699.48,18399.12
+2024-01-08,P001,Product_1,Apparel,Karnataka,Bengaluru,Diwali,762.33,25,571.75,61,34876.75,446.85,7618.9
+2024-01-09,P013,Product_13,Beauty,Kerala,Thiruvananthapuram,Diwali,674.64,15,573.44,63,36126.72,384.09,11929.05
+2024-02-11,P019,Product_19,Beauty,Gujarat,Surat,,223.87,10,201.48,11,2216.28,126.75,822.03
+2024-03-14,P006,Product_6,Apparel,Rajasthan,Udaipur,Diwali,873.2,25,654.9,13,8513.7,613.4,539.5
+2024-01-02,P013,Product_13,Beauty,Uttar Pradesh,Varanasi,Summer Sale,920.55,25,690.41,73,50399.93,670.16,1478.25
+2024-02-09,P013,Product_13,Beauty,Kerala,Thiruvananthapuram,Clearance,712.43,20,569.94,60,34196.4,401.03,10134.6
+2024-03-18,P013,Product_13,Beauty,West Bengal,Kolkata,Summer Sale,823.38,20,658.7,85,55989.5,642.54,1373.6
+2024-03-29,P015,Product_15,Beauty,Kerala,Kochi,New Year,436.55,10,392.9,69,27110.1,318.58,5128.08
+2024-03-21,P009,Product_9,Beauty,Karnataka,Bengaluru,Summer Sale,236.7,20,189.36,20,3787.2,146.3,861.2
+2024-04-12,P016,Product_16,Electronics,Rajasthan,Jaipur,Clearance,264.21,20,211.37,25,5284.25,189.91,536.5
+2024-04-08,P001,Product_1,Apparel,Karnataka,Mysuru,Clearance,668.82,20,535.06,70,37454.2,408.04,8891.4
+2024-03-23,P017,Product_17,Apparel,Delhi,New Delhi,Clearance,484.72,20,387.78,84,32573.52,350.73,3112.2
+2024-04-20,P008,Product_8,Electronics,Telangana,Warangal,Summer Sale,458.45,0,458.45,60,27507.0,266.24,11532.6
+2024-01-15,P017,Product_17,Apparel,Kerala,Kochi,New Year,929.36,15,789.96,88,69516.48,694.76,8377.6
+2024-01-14,P017,Product_17,Apparel,Telangana,Warangal,Clearance,776.15,10,698.53,55,38419.15,566.25,7275.4
+2024-02-18,P013,Product_13,Beauty,Rajasthan,Jaipur,New Year,264.53,5,251.3,7,1759.1,134.29,819.07
+2024-04-01,P012,Product_12,Apparel,Maharashtra,Nagpur,New Year,156.19,25,117.14,51,5974.14,89.74,1397.4
+2024-03-03,P020,Product_20,Beauty,Telangana,Warangal,New Year,639.97,10,575.97,83,47805.51,488.07,7295.7
+2024-02-03,P006,Product_6,Apparel,Kerala,Kochi,Clearance,933.58,10,840.22,7,5881.54,706.88,933.38
+2024-03-27,P014,Product_14,Apparel,Rajasthan,Udaipur,New Year,346.33,15,294.38,6,1766.28,244.89,296.94
+2024-02-15,P003,Product_3,Apparel,Gujarat,Ahmedabad,Summer Sale,868.0,30,607.6,25,15190.0,448.0,3990.0
+2024-04-07,P002,Product_2,Apparel,Rajasthan,Jaipur,Clearance,681.15,10,613.03,26,15938.78,390.35,5789.68
+2024-03-18,P011,Product_11,Home,Kerala,Kochi,Clearance,157.32,15,133.72,75,10029.0,119.32,1080.0
+2024-02-25,P010,Product_10,Home,Gujarat,Ahmedabad,Diwali,500.87,20,400.7,48,19233.6,299.84,4841.28
+2024-01-20,P002,Product_2,Apparel,Gujarat,Surat,Diwali,312.06,25,234.05,59,13808.95,232.04,118.59
+2024-01-09,P016,Product_16,Electronics,Rajasthan,Jaipur,New Year,360.5,25,270.38,86,23252.68,273.1,-233.92
+2024-02-25,P018,Product_18,Electronics,Telangana,Hyderabad,Diwali,987.91,0,987.91,29,28649.39,713.86,7947.45
+2024-04-27,P016,Product_16,Electronics,Rajasthan,Jaipur,New Year,682.15,25,511.61,35,17906.35,519.74,-284.55
+2024-03-31,P006,Product_6,Apparel,West Bengal,Kolkata,Summer Sale,376.43,15,319.97,7,2239.79,269.24,355.11
+2024-02-10,P012,Product_12,Apparel,Uttar Pradesh,Varanasi,Summer Sale,295.94,20,236.75,71,16809.25,182.01,3886.54
+2024-02-19,P001,Product_1,Apparel,Kerala,Thiruvananthapuram,,838.5,5,796.57,42,33455.94,557.33,10048.08
+2024-03-21,P017,Product_17,Apparel,Telangana,Hyderabad,Clearance,461.61,10,415.45,37,15371.65,301.59,4212.82
+2024-01-03,P009,Product_9,Beauty,Delhi,New Delhi,Summer Sale,514.81,5,489.07,5,2445.35,408.95,400.6
+2024-01-14,P003,Product_3,Apparel,Uttar Pradesh,Kanpur,Summer Sale,738.45,20,590.76,62,36627.12,458.33,8210.66
+2024-01-17,P003,Product_3,Apparel,Maharashtra,Mumbai,Diwali,703.91,10,633.52,61,38644.72,428.61,12499.51
+2024-04-27,P009,Product_9,Beauty,Uttar Pradesh,Lucknow,,373.82,25,280.37,23,6448.51,255.54,571.09
+2024-01-27,P005,Product_5,Electronics,Rajasthan,Udaipur,Diwali,897.74,10,807.97,79,63829.63,467.97,26860.0
+2024-03-19,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,Diwali,711.25,0,711.25,36,25605.0,405.36,11012.04
+2024-04-07,P002,Product_2,Apparel,Rajasthan,Udaipur,Diwali,323.91,20,259.13,47,12179.11,245.86,623.69
+2024-04-03,P005,Product_5,Electronics,Tamil Nadu,Madurai,Summer Sale,797.95,15,678.26,96,65112.96,538.45,13421.76
+2024-03-02,P018,Product_18,Electronics,Gujarat,Ahmedabad,,920.36,10,828.32,13,10768.16,729.6,1283.36
+2024-04-07,P008,Product_8,Electronics,Telangana,Hyderabad,Clearance,330.08,15,280.57,78,21884.46,199.11,6353.88
+2024-01-31,P004,Product_4,Beauty,Maharashtra,Nagpur,Clearance,250.71,5,238.17,71,16910.07,191.54,3310.73
+2024-01-08,P020,Product_20,Beauty,Rajasthan,Udaipur,,209.7,25,157.27,25,3931.75,113.55,1093.0
+2024-03-18,P010,Product_10,Home,Rajasthan,Udaipur,Summer Sale,457.08,10,411.37,2,822.74,238.6,345.54
+2024-03-25,P011,Product_11,Home,Rajasthan,Udaipur,,882.26,15,749.92,94,70492.48,551.01,18697.54
+2024-01-16,P001,Product_1,Apparel,Telangana,Warangal,,469.64,30,328.75,22,7232.5,262.39,1459.92
+2024-02-27,P010,Product_10,Home,Tamil Nadu,Madurai,,867.92,0,867.92,43,37320.56,553.22,13532.1
+2024-04-07,P007,Product_7,Home,Telangana,Hyderabad,Diwali,141.46,5,134.39,4,537.56,92.5,167.56
+2024-03-09,P013,Product_13,Beauty,Rajasthan,Udaipur,Diwali,771.73,25,578.8,81,46882.8,616.4,-3045.6
+2024-04-14,P019,Product_19,Beauty,Karnataka,Mysuru,,333.64,30,233.55,64,14947.2,201.35,2060.8
+2024-02-26,P011,Product_11,Home,Gujarat,Surat,,613.69,30,429.58,73,31359.34,383.93,3332.45
+2024-01-22,P012,Product_12,Apparel,Telangana,Warangal,Clearance,194.86,25,146.15,86,12568.9,146.76,-52.46
+2024-04-19,P015,Product_15,Beauty,Kerala,Thiruvananthapuram,Summer Sale,840.01,20,672.01,29,19488.29,450.34,6428.43
+2024-04-06,P009,Product_9,Beauty,Karnataka,Hubli,Diwali,888.57,20,710.86,71,50471.06,691.88,1347.58
+2024-03-22,P003,Product_3,Apparel,Delhi,New Delhi,Diwali,735.01,30,514.51,4,2058.04,480.49,136.08
+2024-01-28,P014,Product_14,Apparel,Maharashtra,Mumbai,Clearance,165.7,30,115.99,59,6843.41,113.74,132.75
+2024-03-10,P013,Product_13,Beauty,Tamil Nadu,Chennai,New Year,311.05,20,248.84,55,13686.2,158.85,4949.45
+2024-04-15,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,Clearance,197.23,0,197.23,34,6705.82,101.8,3244.62
+2024-02-23,P009,Product_9,Beauty,Delhi,New Delhi,,347.06,30,242.94,13,3158.22,181.98,792.48
+2024-02-11,P020,Product_20,Beauty,Delhi,New Delhi,Clearance,407.12,25,305.34,43,13129.62,286.07,828.61
+2024-04-24,P005,Product_5,Electronics,Tamil Nadu,Chennai,New Year,889.71,20,711.77,18,12811.86,676.01,643.68
+2024-03-07,P003,Product_3,Apparel,Telangana,Hyderabad,Summer Sale,128.55,10,115.7,98,11338.6,82.04,3298.68
+2024-02-09,P012,Product_12,Apparel,Kerala,Thiruvananthapuram,Clearance,827.26,10,744.53,18,13401.54,658.56,1547.46
+2024-02-18,P008,Product_8,Electronics,Gujarat,Surat,Diwali,351.5,30,246.05,65,15993.25,269.23,-1506.7
+2024-03-18,P011,Product_11,Home,Karnataka,Hubli,,871.78,20,697.42,29,20225.18,620.63,2226.91
+2024-02-20,P014,Product_14,Apparel,Karnataka,Bengaluru,New Year,872.89,25,654.67,47,30769.49,542.1,5290.79
+2024-03-28,P012,Product_12,Apparel,Kerala,Kochi,New Year,209.69,10,188.72,70,13210.4,126.07,4385.5
+2024-04-22,P019,Product_19,Beauty,Maharashtra,Pune,Summer Sale,161.78,30,113.25,72,8154.0,95.83,1254.24
+2024-03-26,P011,Product_11,Home,Telangana,Hyderabad,Clearance,223.32,25,167.49,47,7872.03,124.05,2041.68
+2024-03-02,P008,Product_8,Electronics,Uttar Pradesh,Lucknow,,599.99,25,449.99,55,24749.45,340.3,6032.95
+2024-01-29,P019,Product_19,Beauty,Delhi,New Delhi,Summer Sale,439.18,25,329.38,22,7246.36,348.38,-418.0
+2024-01-31,P003,Product_3,Apparel,Karnataka,Hubli,New Year,763.67,0,763.67,42,32074.14,406.3,15009.54
+2024-01-17,P010,Product_10,Home,Telangana,Hyderabad,Diwali,405.39,0,405.39,18,7297.02,238.89,2997.0
+2024-04-19,P020,Product_20,Beauty,Rajasthan,Jaipur,Summer Sale,383.17,25,287.38,87,25002.06,210.47,6691.17
+2024-01-19,P001,Product_1,Apparel,Uttar Pradesh,Lucknow,Diwali,924.23,30,646.96,67,43346.32,638.15,590.27
+2024-01-01,P010,Product_10,Home,Uttar Pradesh,Lucknow,Summer Sale,393.65,5,373.97,98,36649.06,304.22,6835.5
+2024-03-05,P014,Product_14,Apparel,West Bengal,Kolkata,,839.13,10,755.22,93,70235.46,449.44,28437.54
+2024-01-16,P014,Product_14,Apparel,West Bengal,Kolkata,Clearance,959.9,0,959.9,91,87350.9,692.44,24338.86
+2024-01-26,P006,Product_6,Apparel,Tamil Nadu,Madurai,Diwali,251.93,5,239.33,61,14599.13,162.46,4689.07
+2024-03-04,P006,Product_6,Apparel,Telangana,Warangal,New Year,560.6,30,392.42,65,25507.3,420.97,-1855.75
+2024-02-13,P018,Product_18,Electronics,Gujarat,Ahmedabad,,918.28,15,780.54,59,46051.86,703.82,4526.48
+2024-04-18,P019,Product_19,Beauty,Delhi,New Delhi,Summer Sale,645.33,30,451.73,79,35686.67,492.73,-3239.0
+2024-04-05,P018,Product_18,Electronics,West Bengal,Siliguri,Summer Sale,453.99,20,363.19,78,28328.82,287.66,5891.34
+2024-03-21,P018,Product_18,Electronics,Tamil Nadu,Chennai,,722.12,15,613.8,10,6138.0,403.15,2106.5
+2024-04-14,P007,Product_7,Home,Tamil Nadu,Chennai,New Year,553.01,20,442.41,70,30968.7,385.13,4009.6
+2024-02-27,P013,Product_13,Beauty,Karnataka,Mysuru,Clearance,680.98,5,646.93,54,34934.22,364.64,15243.66
+2024-04-06,P003,Product_3,Apparel,Kerala,Thiruvananthapuram,New Year,178.7,10,160.83,18,2894.94,101.17,1073.88
+2024-03-19,P019,Product_19,Beauty,Uttar Pradesh,Varanasi,Clearance,135.83,20,108.66,26,2825.16,76.47,836.94
+2024-02-05,P013,Product_13,Beauty,Kerala,Kochi,Diwali,958.27,25,718.7,26,18686.2,690.35,737.1
+2024-03-09,P016,Product_16,Electronics,Delhi,New Delhi,Diwali,261.19,20,208.95,64,13372.8,139.67,4433.92
+2024-03-20,P008,Product_8,Electronics,Delhi,New Delhi,New Year,227.08,25,170.31,55,9367.05,170.03,15.4
+2024-01-26,P003,Product_3,Apparel,Maharashtra,Mumbai,,983.13,20,786.5,80,62920.0,720.21,5303.2
+2024-02-03,P017,Product_17,Apparel,Rajasthan,Udaipur,Clearance,791.17,0,791.17,67,53008.39,441.16,23450.67
+2024-01-03,P001,Product_1,Apparel,Maharashtra,Pune,Diwali,505.25,30,353.67,41,14500.47,391.72,-1560.05
+2024-01-07,P004,Product_4,Beauty,Karnataka,Bengaluru,Clearance,843.35,20,674.68,31,20915.08,626.17,1503.81
+2024-04-05,P009,Product_9,Beauty,Telangana,Hyderabad,Summer Sale,838.29,10,754.46,61,46022.06,498.04,15641.62
+2024-04-07,P010,Product_10,Home,West Bengal,Siliguri,,933.68,5,887.0,10,8870.0,508.44,3785.6
+2024-03-21,P016,Product_16,Electronics,Tamil Nadu,Madurai,Summer Sale,719.93,0,719.93,21,15118.53,442.5,5826.03
+2024-02-20,P011,Product_11,Home,Telangana,Hyderabad,Diwali,483.4,10,435.06,63,27408.78,337.09,6172.11
+2024-02-01,P016,Product_16,Electronics,Delhi,New Delhi,Clearance,678.52,10,610.67,56,34197.52,458.65,8513.12
+2024-03-04,P001,Product_1,Apparel,Gujarat,Surat,,426.25,25,319.69,27,8631.63,304.26,416.61
+2024-02-05,P003,Product_3,Apparel,Karnataka,Hubli,,522.14,25,391.61,58,22713.38,289.29,5934.56
+2024-03-27,P013,Product_13,Beauty,Delhi,New Delhi,Diwali,565.56,30,395.89,13,5146.57,340.96,714.09
+2024-03-15,P018,Product_18,Electronics,Tamil Nadu,Coimbatore,Clearance,471.13,25,353.35,63,22261.05,316.95,2293.2
+2024-02-07,P003,Product_3,Apparel,Telangana,Hyderabad,,150.17,25,112.63,48,5406.24,85.93,1281.6
+2024-04-29,P013,Product_13,Beauty,Kerala,Thiruvananthapuram,Summer Sale,281.93,0,281.93,88,24809.84,153.41,11309.76
+2024-01-02,P011,Product_11,Home,Gujarat,Surat,,589.58,10,530.62,88,46694.56,455.89,6576.24
+2024-03-08,P017,Product_17,Apparel,Gujarat,Ahmedabad,Summer Sale,457.54,5,434.66,62,26948.92,340.27,5852.18
+2024-02-09,P016,Product_16,Electronics,Gujarat,Surat,Summer Sale,933.45,25,700.09,50,35004.5,737.19,-1855.0
+2024-02-24,P006,Product_6,Apparel,Telangana,Warangal,New Year,743.23,30,520.26,85,44222.1,493.51,2273.75
+2024-01-18,P020,Product_20,Beauty,Gujarat,Surat,,354.13,20,283.3,74,20964.2,233.86,3658.56
+2024-03-22,P003,Product_3,Apparel,Gujarat,Vadodara,Diwali,755.98,0,755.98,84,63502.32,585.84,14291.76
+2024-04-04,P016,Product_16,Electronics,Rajasthan,Udaipur,Clearance,281.14,0,281.14,14,3935.96,204.66,1070.72
+2024-02-16,P002,Product_2,Apparel,Delhi,New Delhi,Diwali,103.45,5,98.28,20,1965.6,69.82,569.2
+2024-01-27,P013,Product_13,Beauty,Gujarat,Surat,Clearance,892.81,5,848.17,9,7633.53,530.52,2858.85
+2024-01-26,P008,Product_8,Electronics,Gujarat,Vadodara,Summer Sale,518.53,20,414.82,19,7881.58,272.82,2698.0
+2024-02-18,P020,Product_20,Beauty,Rajasthan,Jaipur,Diwali,481.39,0,481.39,26,12516.14,278.5,5275.14
+2024-04-06,P014,Product_14,Apparel,Gujarat,Vadodara,New Year,500.37,30,350.26,53,18563.78,278.76,3789.5
+2024-03-16,P005,Product_5,Electronics,Maharashtra,Mumbai,Clearance,918.59,5,872.66,17,14835.22,541.76,5625.3
+2024-02-18,P010,Product_10,Home,Uttar Pradesh,Kanpur,New Year,830.63,25,622.97,63,39247.11,596.0,1699.11
+2024-04-09,P020,Product_20,Beauty,Uttar Pradesh,Lucknow,Clearance,863.62,5,820.44,99,81223.56,687.21,13189.77
+2024-04-09,P008,Product_8,Electronics,Telangana,Hyderabad,Diwali,946.89,20,757.51,7,5302.57,569.81,1313.9
+2024-01-01,P012,Product_12,Apparel,Gujarat,Ahmedabad,Diwali,824.59,15,700.9,61,42754.9,596.55,6365.35
+2024-01-16,P001,Product_1,Apparel,Tamil Nadu,Chennai,Diwali,146.14,10,131.53,10,1315.3,75.81,557.2
+2024-01-06,P001,Product_1,Apparel,Gujarat,Surat,Clearance,505.32,0,505.32,29,14654.28,323.03,5286.41
+2024-03-18,P001,Product_1,Apparel,Telangana,Warangal,Summer Sale,671.27,5,637.71,80,51016.8,468.89,13505.6
+2024-02-02,P004,Product_4,Beauty,Uttar Pradesh,Lucknow,Summer Sale,591.13,5,561.57,90,50541.3,401.34,14420.7
+2024-03-07,P015,Product_15,Beauty,Gujarat,Surat,Summer Sale,773.75,5,735.06,45,33077.7,475.19,11694.15
+2024-01-14,P005,Product_5,Electronics,Kerala,Kochi,Diwali,970.54,25,727.9,26,18925.4,763.95,-937.3
+2024-02-13,P010,Product_10,Home,West Bengal,Siliguri,New Year,825.04,0,825.04,49,40426.96,634.77,9323.23
+2024-04-07,P001,Product_1,Apparel,Maharashtra,Nagpur,,582.07,10,523.86,78,40861.08,335.07,14725.62
+2024-04-09,P020,Product_20,Beauty,Delhi,New Delhi,New Year,700.06,25,525.04,21,11025.84,393.29,2766.75
+2024-03-17,P003,Product_3,Apparel,Delhi,New Delhi,Clearance,148.4,25,111.3,73,8124.9,90.14,1544.68
+2024-03-24,P012,Product_12,Apparel,West Bengal,Siliguri,,696.98,15,592.43,48,28436.64,463.63,6182.4
+2024-01-12,P015,Product_15,Beauty,Rajasthan,Udaipur,Summer Sale,871.27,20,697.02,46,32062.92,592.53,4806.54
+2024-02-03,P004,Product_4,Beauty,Gujarat,Ahmedabad,,730.78,15,621.16,78,48450.48,491.13,10142.34
+2024-04-09,P017,Product_17,Apparel,Karnataka,Mysuru,Clearance,943.05,15,801.59,6,4809.54,612.21,1136.28
+2024-04-27,P004,Product_4,Beauty,Uttar Pradesh,Varanasi,Summer Sale,207.44,0,207.44,12,2489.28,156.13,615.72
+2024-04-05,P013,Product_13,Beauty,Gujarat,Vadodara,Summer Sale,637.58,10,573.82,51,29264.82,355.46,11136.36
+2024-02-22,P010,Product_10,Home,Telangana,Warangal,Diwali,869.09,20,695.27,6,4171.62,488.51,1240.56
+2024-03-09,P005,Product_5,Electronics,Telangana,Warangal,Diwali,179.32,10,161.39,48,7746.72,108.82,2523.36
+2024-03-09,P006,Product_6,Apparel,Rajasthan,Jaipur,,263.64,5,250.46,64,16029.44,197.28,3403.52
+2024-01-03,P010,Product_10,Home,Telangana,Warangal,Diwali,735.94,5,699.14,37,25868.18,394.27,11280.19
+2024-03-12,P001,Product_1,Apparel,Gujarat,Vadodara,New Year,276.84,30,193.79,17,3294.43,181.45,209.78
+2024-04-15,P007,Product_7,Home,Uttar Pradesh,Lucknow,Clearance,389.86,15,331.38,11,3645.18,277.31,594.77
+2024-04-28,P005,Product_5,Electronics,Tamil Nadu,Chennai,Clearance,700.23,0,700.23,35,24508.05,414.45,10002.3
+2024-04-28,P018,Product_18,Electronics,Kerala,Kochi,Summer Sale,747.32,15,635.22,12,7622.64,416.9,2619.84
+2024-01-17,P010,Product_10,Home,Karnataka,Hubli,Clearance,333.01,30,233.11,41,9557.51,248.59,-634.68
+2024-01-01,P002,Product_2,Apparel,Delhi,New Delhi,New Year,209.17,20,167.34,62,10375.08,155.51,733.46
+2024-04-07,P005,Product_5,Electronics,Uttar Pradesh,Kanpur,Clearance,607.97,30,425.58,4,1702.32,335.83,359.0
+2024-03-22,P005,Product_5,Electronics,Telangana,Warangal,,441.76,20,353.41,86,30393.26,339.94,1158.42
+2024-03-14,P016,Product_16,Electronics,Karnataka,Mysuru,Clearance,754.87,25,566.15,2,1132.3,404.93,322.44
+2024-01-11,P010,Product_10,Home,Rajasthan,Jaipur,Summer Sale,632.55,30,442.78,8,3542.24,378.59,513.52
+2024-01-08,P004,Product_4,Beauty,West Bengal,Siliguri,Diwali,661.04,20,528.83,12,6345.96,427.65,1214.16
+2024-03-25,P017,Product_17,Apparel,Karnataka,Bengaluru,,351.67,0,351.67,53,18638.51,252.64,5248.59
+2024-04-15,P017,Product_17,Apparel,Delhi,New Delhi,Summer Sale,824.66,15,700.96,8,5607.68,603.92,776.32
+2024-04-23,P018,Product_18,Electronics,Uttar Pradesh,Kanpur,Summer Sale,492.62,30,344.83,14,4827.62,372.81,-391.72
+2024-04-03,P015,Product_15,Beauty,West Bengal,Siliguri,Clearance,349.08,0,349.08,21,7330.68,188.87,3364.41
+2024-01-09,P017,Product_17,Apparel,Telangana,Hyderabad,New Year,939.58,20,751.66,88,66146.08,579.11,15184.4
+2024-03-01,P014,Product_14,Apparel,Gujarat,Ahmedabad,Diwali,395.1,5,375.35,38,14263.3,296.69,2989.08
+2024-03-02,P008,Product_8,Electronics,Uttar Pradesh,Lucknow,Summer Sale,527.29,25,395.47,44,17400.68,398.45,-131.12
+2024-02-07,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,,110.8,5,105.26,17,1789.42,76.13,495.21
+2024-01-21,P004,Product_4,Beauty,Telangana,Warangal,Diwali,536.52,0,536.52,10,5365.2,376.54,1599.8
+2024-02-08,P008,Product_8,Electronics,Delhi,New Delhi,Clearance,566.21,20,452.97,85,38502.45,330.9,10375.95
+2024-04-01,P013,Product_13,Beauty,Gujarat,Vadodara,Summer Sale,535.15,20,428.12,59,25259.08,393.28,2055.56
+2024-02-11,P006,Product_6,Apparel,Delhi,New Delhi,Clearance,195.54,15,166.21,96,15956.16,147.38,1807.68
+2024-04-15,P009,Product_9,Beauty,Uttar Pradesh,Varanasi,Summer Sale,275.46,10,247.91,52,12891.32,168.97,4104.88
+2024-02-26,P008,Product_8,Electronics,Rajasthan,Udaipur,Summer Sale,619.13,0,619.13,75,46434.75,456.66,12185.25
+2024-03-04,P010,Product_10,Home,Tamil Nadu,Madurai,New Year,147.47,25,110.6,87,9622.2,78.95,2753.55
+2024-01-18,P013,Product_13,Beauty,Tamil Nadu,Madurai,,592.77,15,503.85,33,16627.05,446.47,1893.54
+2024-02-20,P010,Product_10,Home,Karnataka,Bengaluru,,190.51,0,190.51,98,18669.98,130.5,5880.98
+2024-03-28,P016,Product_16,Electronics,Maharashtra,Pune,Clearance,619.85,5,588.86,18,10599.48,371.74,3908.16
+2024-01-10,P015,Product_15,Beauty,Uttar Pradesh,Kanpur,New Year,655.5,25,491.62,30,14748.6,399.88,2752.2
+2024-02-27,P001,Product_1,Apparel,Rajasthan,Udaipur,,463.82,15,394.25,49,19318.25,366.36,1366.61
+2024-02-09,P017,Product_17,Apparel,Uttar Pradesh,Lucknow,New Year,608.18,30,425.73,33,14049.09,413.71,396.66
+2024-04-10,P003,Product_3,Apparel,Rajasthan,Jaipur,,565.49,20,452.39,42,19000.38,389.75,2630.88
+2024-02-23,P014,Product_14,Apparel,Telangana,Hyderabad,New Year,361.04,0,361.04,58,20940.32,262.6,5709.52
+2024-02-22,P002,Product_2,Apparel,Maharashtra,Pune,Diwali,252.78,20,202.22,12,2426.64,196.51,68.52
+2024-01-05,P008,Product_8,Electronics,West Bengal,Kolkata,New Year,201.97,10,181.77,18,3271.86,156.29,458.64
+2024-01-29,P013,Product_13,Beauty,Tamil Nadu,Chennai,Clearance,248.14,5,235.73,54,12729.42,142.66,5025.78
+2024-03-16,P013,Product_13,Beauty,Rajasthan,Jaipur,Clearance,298.29,0,298.29,58,17300.82,195.21,5978.64
+2024-04-10,P002,Product_2,Apparel,Karnataka,Hubli,,915.61,15,778.27,28,21791.56,604.16,4875.08
+2024-01-07,P016,Product_16,Electronics,Uttar Pradesh,Kanpur,New Year,642.89,30,450.02,2,900.04,323.48,253.08
+2024-01-23,P006,Product_6,Apparel,West Bengal,Kolkata,Clearance,939.31,0,939.31,88,82659.28,567.12,32752.72
+2024-01-15,P001,Product_1,Apparel,Telangana,Hyderabad,New Year,623.55,25,467.66,60,28059.6,461.81,351.0
+2024-02-21,P014,Product_14,Apparel,Telangana,Warangal,Diwali,891.85,5,847.26,5,4236.3,497.28,1749.9
+2024-01-15,P008,Product_8,Electronics,Gujarat,Ahmedabad,Clearance,661.15,5,628.09,53,33288.77,393.29,12444.4
+2024-02-01,P018,Product_18,Electronics,Gujarat,Surat,Summer Sale,281.62,25,211.22,7,1478.54,205.05,43.19
+2024-03-25,P015,Product_15,Beauty,West Bengal,Kolkata,Diwali,368.21,15,312.98,15,4694.7,204.44,1628.1
+2024-01-26,P017,Product_17,Apparel,Uttar Pradesh,Varanasi,Clearance,435.7,5,413.91,4,1655.64,247.36,666.2
+2024-04-21,P013,Product_13,Beauty,Delhi,New Delhi,,949.79,0,949.79,23,21845.17,567.83,8785.08
+2024-03-17,P007,Product_7,Home,Tamil Nadu,Madurai,,327.28,30,229.1,91,20848.1,246.83,-1613.43
+2024-03-08,P019,Product_19,Beauty,Gujarat,Ahmedabad,Summer Sale,217.32,15,184.72,16,2955.52,130.95,860.32
+2024-01-25,P008,Product_8,Electronics,Rajasthan,Udaipur,Diwali,854.75,15,726.54,31,22522.74,432.76,9107.18
+2024-04-21,P009,Product_9,Beauty,Maharashtra,Mumbai,New Year,107.9,5,102.5,90,9225.0,80.39,1989.9
+2024-02-23,P019,Product_19,Beauty,West Bengal,Kolkata,Clearance,133.66,20,106.93,9,962.37,88.42,166.59
+2024-03-09,P011,Product_11,Home,Delhi,New Delhi,New Year,671.1,5,637.54,28,17851.12,502.57,3779.16
+2024-04-15,P010,Product_10,Home,Karnataka,Mysuru,Clearance,979.27,10,881.34,98,86371.32,710.39,16753.1
+2024-02-11,P006,Product_6,Apparel,Rajasthan,Udaipur,New Year,539.31,0,539.31,58,31279.98,328.45,12229.88
+2024-02-25,P017,Product_17,Apparel,Telangana,Warangal,,485.78,5,461.49,53,24458.97,291.3,9020.07
+2024-01-15,P002,Product_2,Apparel,Delhi,New Delhi,Summer Sale,664.72,5,631.48,51,32205.48,373.2,13172.28
+2024-02-23,P005,Product_5,Electronics,Uttar Pradesh,Kanpur,Clearance,764.69,25,573.52,5,2867.6,473.91,498.05
+2024-04-04,P020,Product_20,Beauty,Maharashtra,Nagpur,Diwali,354.49,25,265.87,12,3190.44,278.76,-154.68
+2024-03-16,P003,Product_3,Apparel,Kerala,Thiruvananthapuram,New Year,678.5,10,610.65,36,21983.4,538.04,2613.96
+2024-02-22,P017,Product_17,Apparel,Rajasthan,Udaipur,Clearance,315.11,25,236.33,67,15834.11,218.09,1222.08
+2024-04-28,P003,Product_3,Apparel,Maharashtra,Pune,,262.59,20,210.07,35,7352.45,174.04,1261.05
+2024-02-10,P009,Product_9,Beauty,Gujarat,Vadodara,New Year,346.59,20,277.27,78,21627.06,214.24,4916.34
+2024-02-11,P015,Product_15,Beauty,Maharashtra,Mumbai,New Year,220.01,15,187.01,50,9350.5,159.0,1400.5
+2024-01-01,P004,Product_4,Beauty,Rajasthan,Jaipur,Clearance,931.88,20,745.5,69,51439.5,546.8,13710.3
+2024-03-31,P005,Product_5,Electronics,Kerala,Kochi,Clearance,251.22,10,226.1,90,20349.0,134.52,8242.2
+2024-02-08,P014,Product_14,Apparel,Tamil Nadu,Madurai,,879.01,30,615.31,46,28304.26,672.71,-2640.4
+2024-01-22,P016,Product_16,Electronics,Tamil Nadu,Madurai,Clearance,114.99,15,97.74,62,6059.88,80.43,1073.22
+2024-03-11,P016,Product_16,Electronics,Gujarat,Ahmedabad,Clearance,169.73,10,152.76,59,9012.84,105.78,2771.82
+2024-04-28,P018,Product_18,Electronics,Rajasthan,Jaipur,Clearance,330.77,25,248.08,49,12155.92,234.03,688.45
+2024-02-17,P008,Product_8,Electronics,Uttar Pradesh,Kanpur,Clearance,817.65,10,735.88,31,22812.28,592.88,4433.0
+2024-02-18,P014,Product_14,Apparel,Telangana,Warangal,New Year,478.66,20,382.93,98,37527.14,362.37,2014.88
+2024-03-17,P009,Product_9,Beauty,Telangana,Hyderabad,New Year,745.54,0,745.54,80,59643.2,492.69,20228.0
+2024-04-03,P020,Product_20,Beauty,Tamil Nadu,Chennai,Diwali,877.93,20,702.34,68,47759.12,686.25,1094.12
+2024-04-22,P014,Product_14,Apparel,West Bengal,Siliguri,Summer Sale,447.45,15,380.33,36,13691.88,325.33,1980.0
+2024-03-25,P001,Product_1,Apparel,Telangana,Warangal,,174.9,10,157.41,49,7713.09,93.28,3142.37
+2024-02-27,P014,Product_14,Apparel,Uttar Pradesh,Varanasi,Diwali,475.45,25,356.59,95,33876.05,362.39,-551.0
+2024-01-23,P003,Product_3,Apparel,Delhi,New Delhi,Clearance,843.82,0,843.82,53,44722.46,437.66,21526.48
+2024-01-17,P019,Product_19,Beauty,Telangana,Hyderabad,,974.66,5,925.93,37,34259.41,604.79,11882.18
+2024-02-14,P007,Product_7,Home,Tamil Nadu,Chennai,Summer Sale,522.47,15,444.1,77,34195.7,363.25,6225.45
+2024-03-24,P007,Product_7,Home,Delhi,New Delhi,Diwali,273.41,30,191.39,62,11866.18,178.8,780.58
+2024-02-13,P008,Product_8,Electronics,Rajasthan,Jaipur,New Year,802.04,30,561.43,44,24702.92,455.75,4649.92
+2024-02-24,P013,Product_13,Beauty,Delhi,New Delhi,Summer Sale,167.77,15,142.6,34,4848.4,125.18,592.28
+2024-04-12,P011,Product_11,Home,Rajasthan,Udaipur,Diwali,989.31,25,741.98,42,31163.16,592.37,6283.62
+2024-03-31,P016,Product_16,Electronics,Kerala,Thiruvananthapuram,Summer Sale,902.03,30,631.42,10,6314.2,519.95,1114.7
+2024-03-05,P020,Product_20,Beauty,Uttar Pradesh,Kanpur,Summer Sale,985.34,15,837.54,51,42714.54,646.84,9725.7
+2024-03-25,P018,Product_18,Electronics,Karnataka,Mysuru,Clearance,748.41,25,561.31,78,43782.18,415.58,11366.94
+2024-02-26,P008,Product_8,Electronics,Tamil Nadu,Madurai,Diwali,171.29,10,154.16,17,2620.72,125.44,488.24
+2024-02-07,P002,Product_2,Apparel,Rajasthan,Udaipur,Diwali,269.91,15,229.42,52,11929.84,184.02,2360.8
+2024-02-02,P017,Product_17,Apparel,Rajasthan,Jaipur,New Year,511.35,5,485.78,19,9229.82,375.87,2088.29
+2024-02-12,P006,Product_6,Apparel,Rajasthan,Udaipur,Clearance,200.74,25,150.56,97,14604.32,134.6,1548.12
+2024-02-26,P012,Product_12,Apparel,Uttar Pradesh,Varanasi,Summer Sale,581.99,20,465.59,10,4655.9,379.98,856.1
+2024-04-01,P011,Product_11,Home,Karnataka,Bengaluru,,904.54,10,814.09,58,47217.22,584.53,13314.48
+2024-04-25,P007,Product_7,Home,Maharashtra,Mumbai,Clearance,934.22,5,887.51,56,49700.56,728.04,8930.32
+2024-01-05,P010,Product_10,Home,Rajasthan,Udaipur,,507.54,15,431.41,54,23296.14,389.35,2271.24
+2024-02-26,P007,Product_7,Home,Kerala,Thiruvananthapuram,Clearance,228.53,20,182.82,18,3290.76,136.5,833.76
+2024-01-03,P005,Product_5,Electronics,Uttar Pradesh,Varanasi,New Year,351.11,0,351.11,97,34057.67,280.76,6823.95
+2024-03-07,P018,Product_18,Electronics,Kerala,Thiruvananthapuram,New Year,838.53,15,712.75,99,70562.25,440.04,26998.29
+2024-02-13,P013,Product_13,Beauty,Kerala,Kochi,,757.0,5,719.15,55,39553.25,395.38,17807.35
+2024-04-21,P012,Product_12,Apparel,Uttar Pradesh,Varanasi,Summer Sale,178.27,10,160.44,85,13637.4,114.39,3914.25
+2024-03-13,P015,Product_15,Beauty,Karnataka,Hubli,,950.24,10,855.22,77,65851.94,574.09,21647.01
+2024-04-29,P018,Product_18,Electronics,Delhi,New Delhi,Clearance,105.57,10,95.01,66,6270.66,82.48,826.98
+2024-02-28,P018,Product_18,Electronics,Uttar Pradesh,Varanasi,,182.19,20,145.75,63,9182.25,124.45,1341.9
+2024-01-02,P001,Product_1,Apparel,Uttar Pradesh,Kanpur,Clearance,583.79,5,554.6,17,9428.2,296.11,4394.33
+2024-02-08,P016,Product_16,Electronics,Uttar Pradesh,Varanasi,Clearance,504.95,5,479.7,19,9114.3,363.54,2207.04
+2024-02-05,P005,Product_5,Electronics,Tamil Nadu,Chennai,Clearance,880.46,0,880.46,71,62512.66,581.1,21254.56
+2024-03-09,P013,Product_13,Beauty,Delhi,New Delhi,Summer Sale,187.28,20,149.82,4,599.28,148.56,5.04
+2024-03-13,P009,Product_9,Beauty,West Bengal,Siliguri,,151.97,10,136.77,68,9300.36,103.49,2263.04
+2024-01-18,P006,Product_6,Apparel,Karnataka,Bengaluru,,344.5,5,327.27,24,7854.48,244.08,1996.56
+2024-01-17,P016,Product_16,Electronics,West Bengal,Siliguri,,181.5,15,154.28,83,12805.24,124.04,2509.92
+2024-03-21,P016,Product_16,Electronics,Karnataka,Bengaluru,Summer Sale,866.66,0,866.66,75,64999.5,477.65,29175.75
+2024-01-15,P010,Product_10,Home,West Bengal,Siliguri,New Year,906.15,25,679.61,32,21747.52,570.46,3492.8
+2024-03-26,P016,Product_16,Electronics,Tamil Nadu,Coimbatore,Diwali,129.15,20,103.32,60,6199.2,95.34,478.8
+2024-03-25,P014,Product_14,Apparel,Delhi,New Delhi,,816.98,5,776.13,76,58985.88,581.4,14799.48
+2024-02-28,P009,Product_9,Beauty,Telangana,Hyderabad,Clearance,301.94,20,241.55,1,241.55,172.35,69.2
+2024-02-15,P005,Product_5,Electronics,West Bengal,Kolkata,Summer Sale,266.87,25,200.15,86,17212.9,169.1,2670.3
+2024-02-08,P017,Product_17,Apparel,Maharashtra,Mumbai,Diwali,171.64,30,120.15,92,11053.8,130.28,-931.96
+2024-02-23,P008,Product_8,Electronics,Tamil Nadu,Chennai,,885.27,10,796.74,82,65332.68,673.15,10134.38
+2024-01-18,P001,Product_1,Apparel,Telangana,Hyderabad,Clearance,933.24,10,839.92,34,28557.28,570.78,9150.76
+2024-03-13,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,Diwali,218.27,15,185.53,59,10946.27,134.97,2983.04
+2024-01-05,P008,Product_8,Electronics,Kerala,Kochi,Diwali,319.6,20,255.68,51,13039.68,251.67,204.51
+2024-03-24,P014,Product_14,Apparel,Tamil Nadu,Chennai,Summer Sale,562.56,30,393.79,30,11813.7,432.42,-1158.9
+2024-04-16,P007,Product_7,Home,West Bengal,Siliguri,New Year,390.69,20,312.55,28,8751.4,232.97,2228.24
+2024-01-20,P006,Product_6,Apparel,Gujarat,Vadodara,Diwali,255.72,10,230.15,31,7134.65,148.84,2520.61
+2024-03-28,P011,Product_11,Home,Uttar Pradesh,Varanasi,Diwali,307.29,20,245.83,55,13520.65,158.19,4820.2
+2024-01-12,P009,Product_9,Beauty,Maharashtra,Mumbai,,225.07,25,168.8,7,1181.6,133.85,244.65
+2024-01-12,P008,Product_8,Electronics,Karnataka,Hubli,Clearance,953.67,5,905.99,50,45299.5,478.78,21360.5
+2024-04-03,P002,Product_2,Apparel,West Bengal,Siliguri,Summer Sale,562.67,0,562.67,66,37136.22,356.4,13613.82
+2024-03-02,P014,Product_14,Apparel,Telangana,Warangal,,676.92,10,609.23,17,10356.91,387.52,3769.07
+2024-04-11,P013,Product_13,Beauty,Telangana,Warangal,,102.44,10,92.2,34,3134.8,53.19,1326.34
+2024-02-13,P014,Product_14,Apparel,Rajasthan,Jaipur,Summer Sale,987.84,30,691.49,51,35265.99,556.44,6887.55
+2024-04-23,P016,Product_16,Electronics,Kerala,Thiruvananthapuram,Summer Sale,718.47,15,610.7,70,42749.0,541.11,4871.3
+2024-03-14,P006,Product_6,Apparel,Maharashtra,Mumbai,Clearance,378.7,5,359.76,3,1079.28,204.55,465.63
+2024-01-17,P017,Product_17,Apparel,Tamil Nadu,Coimbatore,Clearance,207.12,5,196.76,76,14953.76,133.61,4799.4
+2024-04-12,P001,Product_1,Apparel,Uttar Pradesh,Varanasi,Summer Sale,658.21,25,493.66,66,32581.56,353.91,9223.5
+2024-03-09,P014,Product_14,Apparel,West Bengal,Siliguri,,743.83,20,595.06,52,30943.12,419.57,9125.48
+2024-03-23,P013,Product_13,Beauty,Gujarat,Ahmedabad,,750.17,15,637.64,9,5738.76,424.02,1922.58
+2024-04-08,P012,Product_12,Apparel,Delhi,New Delhi,New Year,225.39,10,202.85,4,811.4,171.63,124.88
+2024-02-04,P012,Product_12,Apparel,Uttar Pradesh,Lucknow,,820.12,15,697.1,40,27884.0,586.37,4429.2
+2024-03-08,P006,Product_6,Apparel,Karnataka,Bengaluru,Diwali,340.12,0,340.12,89,30270.68,249.42,8072.3
+2024-01-17,P013,Product_13,Beauty,Delhi,New Delhi,Diwali,771.94,20,617.55,13,8028.15,469.26,1927.77
+2024-01-02,P011,Product_11,Home,Maharashtra,Mumbai,Diwali,264.58,5,251.35,99,24883.65,182.74,6792.39
+2024-04-01,P004,Product_4,Beauty,Delhi,New Delhi,,108.84,25,81.63,52,4244.76,61.79,1031.68
+2024-04-16,P001,Product_1,Apparel,Kerala,Kochi,Diwali,724.04,15,615.43,90,55388.7,458.5,14123.7
+2024-01-12,P012,Product_12,Apparel,West Bengal,Siliguri,New Year,830.46,30,581.32,99,57550.68,618.55,-3685.77
+2024-01-13,P011,Product_11,Home,Karnataka,Bengaluru,,754.32,0,754.32,84,63362.88,569.92,15489.6
+2024-01-13,P011,Product_11,Home,Kerala,Thiruvananthapuram,Summer Sale,302.64,5,287.51,53,15238.03,202.98,4480.09
+2024-04-27,P009,Product_9,Beauty,Tamil Nadu,Coimbatore,Clearance,923.59,25,692.69,97,67190.93,571.74,11732.15
+2024-04-29,P007,Product_7,Home,Uttar Pradesh,Varanasi,Clearance,611.44,25,458.58,45,20636.1,306.1,6861.6
+2024-04-26,P007,Product_7,Home,Delhi,New Delhi,Clearance,400.4,25,300.3,11,3303.3,286.95,146.85
+2024-01-31,P018,Product_18,Electronics,Delhi,New Delhi,New Year,612.37,10,551.13,34,18738.42,387.87,5550.84
+2024-03-10,P008,Product_8,Electronics,Telangana,Warangal,Diwali,309.57,20,247.66,71,17583.86,182.32,4639.14
+2024-04-07,P014,Product_14,Apparel,Telangana,Hyderabad,,263.59,20,210.87,32,6747.84,183.39,879.36
+2024-02-08,P018,Product_18,Electronics,Tamil Nadu,Madurai,New Year,332.3,10,299.07,25,7476.75,221.38,1942.25
+2024-01-23,P002,Product_2,Apparel,Kerala,Kochi,Summer Sale,934.97,15,794.72,11,8741.92,513.36,3094.96
+2024-03-26,P005,Product_5,Electronics,Kerala,Thiruvananthapuram,Diwali,195.59,5,185.81,70,13006.7,115.5,4921.7
+2024-04-02,P004,Product_4,Beauty,Karnataka,Hubli,New Year,665.57,10,599.01,79,47321.79,461.35,10875.14
+2024-01-22,P008,Product_8,Electronics,Delhi,New Delhi,Summer Sale,549.59,20,439.67,49,21543.83,381.37,2856.7
+2024-02-07,P011,Product_11,Home,Maharashtra,Nagpur,Summer Sale,826.1,15,702.18,5,3510.9,421.57,1403.05
+2024-04-04,P012,Product_12,Apparel,Kerala,Thiruvananthapuram,,176.74,10,159.07,37,5885.59,111.44,1762.31
+2024-02-17,P017,Product_17,Apparel,Telangana,Hyderabad,Summer Sale,366.88,30,256.82,79,20288.78,198.12,4637.3
+2024-02-23,P018,Product_18,Electronics,Kerala,Thiruvananthapuram,New Year,999.14,0,999.14,87,86925.18,548.53,39203.07
+2024-04-03,P001,Product_1,Apparel,Telangana,Warangal,Clearance,626.53,0,626.53,98,61399.94,478.13,14543.2
+2024-04-28,P019,Product_19,Beauty,Delhi,New Delhi,New Year,700.24,0,700.24,80,56019.2,372.54,26216.0
+2024-03-01,P014,Product_14,Apparel,Karnataka,Bengaluru,New Year,492.1,15,418.29,45,18823.05,355.64,2819.25
+2024-01-26,P009,Product_9,Beauty,Karnataka,Hubli,,167.75,20,134.2,58,7783.6,115.15,1104.9
+2024-02-28,P014,Product_14,Apparel,Gujarat,Ahmedabad,Clearance,331.73,10,298.56,42,12539.52,255.37,1813.98
+2024-02-22,P015,Product_15,Beauty,Kerala,Kochi,Clearance,446.55,10,401.9,87,34965.3,333.28,5969.94
+2024-01-19,P005,Product_5,Electronics,West Bengal,Kolkata,Diwali,851.48,20,681.18,26,17710.68,555.25,3274.18
+2024-02-20,P011,Product_11,Home,Kerala,Kochi,Summer Sale,762.33,30,533.63,93,49627.59,577.44,-4074.33
+2024-01-29,P015,Product_15,Beauty,Kerala,Thiruvananthapuram,New Year,493.08,30,345.16,3,1035.48,363.27,-54.33
+2024-03-15,P020,Product_20,Beauty,Rajasthan,Udaipur,Summer Sale,937.61,30,656.33,97,63664.01,749.58,-9045.25
+2024-04-11,P016,Product_16,Electronics,Gujarat,Vadodara,,752.79,10,677.51,21,14227.71,468.51,4389.0
+2024-04-20,P008,Product_8,Electronics,Rajasthan,Jaipur,Clearance,978.04,0,978.04,91,89001.64,515.95,42050.19
+2024-02-04,P001,Product_1,Apparel,Gujarat,Vadodara,New Year,681.68,15,579.43,65,37662.95,446.0,8672.95
+2024-04-11,P001,Product_1,Apparel,Telangana,Warangal,Summer Sale,685.17,15,582.39,1,582.39,530.01,52.38
+2024-03-22,P002,Product_2,Apparel,Telangana,Warangal,Clearance,629.53,20,503.62,63,31728.06,383.19,7587.09
+2024-01-09,P007,Product_7,Home,Uttar Pradesh,Kanpur,Summer Sale,157.81,15,134.14,64,8584.96,117.96,1035.52
+2024-01-31,P016,Product_16,Electronics,Delhi,New Delhi,Clearance,484.21,20,387.37,60,23242.2,356.03,1880.4
+2024-03-25,P020,Product_20,Beauty,Uttar Pradesh,Varanasi,,676.98,20,541.58,76,41160.08,419.31,9292.52
+2024-01-03,P016,Product_16,Electronics,Delhi,New Delhi,Summer Sale,159.45,15,135.53,70,9487.1,123.44,846.3
+2024-04-18,P007,Product_7,Home,Kerala,Thiruvananthapuram,New Year,530.08,5,503.58,90,45322.2,373.58,11700.0
+2024-01-15,P002,Product_2,Apparel,West Bengal,Siliguri,Diwali,729.58,10,656.62,26,17072.12,433.88,5791.24
+2024-01-03,P016,Product_16,Electronics,Maharashtra,Nagpur,,689.96,5,655.46,1,655.46,347.45,308.01
+2024-03-20,P008,Product_8,Electronics,Telangana,Warangal,Summer Sale,882.73,30,617.91,95,58701.45,698.98,-7701.65
+2024-01-27,P017,Product_17,Apparel,Rajasthan,Jaipur,Clearance,513.37,0,513.37,21,10780.77,390.57,2578.8
+2024-04-11,P003,Product_3,Apparel,West Bengal,Kolkata,Diwali,839.13,15,713.26,58,41369.08,563.75,8671.58
+2024-04-06,P010,Product_10,Home,Gujarat,Surat,,854.96,15,726.72,11,7993.92,517.75,2298.67
+2024-03-12,P009,Product_9,Beauty,Delhi,New Delhi,,595.51,15,506.18,64,32395.52,357.41,9521.28
+2024-04-29,P011,Product_11,Home,Maharashtra,Mumbai,New Year,920.01,5,874.01,63,55062.63,466.9,25647.93
+2024-04-23,P009,Product_9,Beauty,Gujarat,Vadodara,New Year,143.89,0,143.89,58,8345.62,98.09,2656.4
+2024-01-26,P016,Product_16,Electronics,West Bengal,Kolkata,New Year,408.16,5,387.75,9,3489.75,215.27,1552.32
+2024-04-18,P004,Product_4,Beauty,Uttar Pradesh,Varanasi,Diwali,777.81,10,700.03,80,56002.4,591.82,8656.8
+2024-02-10,P006,Product_6,Apparel,Tamil Nadu,Chennai,Summer Sale,265.82,20,212.66,86,18288.76,208.49,358.62
+2024-02-17,P002,Product_2,Apparel,Kerala,Thiruvananthapuram,Diwali,856.31,30,599.42,80,47953.6,563.14,2902.4
+2024-03-13,P010,Product_10,Home,West Bengal,Siliguri,New Year,615.49,20,492.39,14,6893.46,492.08,4.34
+2024-03-30,P003,Product_3,Apparel,West Bengal,Kolkata,Clearance,355.65,0,355.65,91,32364.15,207.08,13519.87
+2024-04-01,P009,Product_9,Beauty,Telangana,Hyderabad,,496.67,5,471.84,49,23120.16,341.56,6383.72
+2024-01-07,P017,Product_17,Apparel,Telangana,Hyderabad,,744.06,0,744.06,93,69197.58,522.75,20581.83
+2024-03-06,P004,Product_4,Beauty,Kerala,Kochi,,720.48,30,504.34,27,13617.18,510.21,-158.49
+2024-03-14,P017,Product_17,Apparel,Gujarat,Vadodara,Summer Sale,708.58,20,566.86,27,15305.22,558.94,213.84
+2024-03-07,P015,Product_15,Beauty,Rajasthan,Jaipur,,561.55,25,421.16,25,10529.0,298.57,3064.75
+2024-03-06,P004,Product_4,Beauty,Uttar Pradesh,Lucknow,Diwali,642.03,10,577.83,58,33514.14,440.1,7988.34
+2024-03-16,P014,Product_14,Apparel,Delhi,New Delhi,,163.71,5,155.52,82,12752.64,122.84,2679.76
+2024-04-21,P015,Product_15,Beauty,Uttar Pradesh,Varanasi,,705.55,0,705.55,20,14111.0,532.87,3453.6
+2024-01-01,P003,Product_3,Apparel,Gujarat,Surat,Clearance,369.94,15,314.45,65,20439.25,219.84,6149.65
+2024-01-03,P007,Product_7,Home,Karnataka,Mysuru,,129.71,15,110.25,94,10363.5,73.02,3499.62
+2024-03-04,P014,Product_14,Apparel,Rajasthan,Jaipur,Summer Sale,741.0,10,666.9,75,50017.5,418.9,18600.0
+2024-01-24,P014,Product_14,Apparel,West Bengal,Siliguri,Diwali,544.93,20,435.94,26,11334.44,351.52,2194.92
+2024-04-09,P007,Product_7,Home,Rajasthan,Jaipur,Clearance,229.82,15,195.35,35,6837.25,182.21,459.9
+2024-04-24,P015,Product_15,Beauty,Delhi,New Delhi,,920.61,5,874.58,16,13993.28,668.47,3297.76
+2024-04-07,P015,Product_15,Beauty,Tamil Nadu,Madurai,New Year,309.59,10,278.63,16,4458.08,208.1,1128.48
+2024-03-08,P018,Product_18,Electronics,Karnataka,Hubli,,634.32,15,539.17,79,42594.43,411.05,10121.48
+2024-03-15,P018,Product_18,Electronics,Karnataka,Bengaluru,Clearance,503.17,5,478.01,99,47322.99,276.56,19943.55
+2024-03-27,P019,Product_19,Beauty,Rajasthan,Jaipur,Clearance,363.02,20,290.42,41,11907.22,220.12,2882.3
+2024-01-07,P002,Product_2,Apparel,West Bengal,Kolkata,,849.73,20,679.78,39,26511.42,658.19,842.01
+2024-03-19,P018,Product_18,Electronics,Maharashtra,Nagpur,,890.87,30,623.61,33,20579.13,473.09,4967.16
+2024-01-20,P019,Product_19,Beauty,Telangana,Warangal,Diwali,285.06,15,242.3,71,17203.3,161.61,5728.99
+2024-03-17,P016,Product_16,Electronics,Maharashtra,Nagpur,Summer Sale,507.6,20,406.08,36,14618.88,282.77,4439.16
+2024-01-30,P005,Product_5,Electronics,Maharashtra,Nagpur,Clearance,371.43,30,260.0,56,14560.0,193.63,3716.72
+2024-02-27,P001,Product_1,Apparel,Delhi,New Delhi,,183.72,5,174.53,55,9599.15,97.63,4229.5
+2024-01-22,P001,Product_1,Apparel,Tamil Nadu,Madurai,Summer Sale,561.93,20,449.54,69,31018.26,304.8,9987.06
+2024-03-08,P014,Product_14,Apparel,Karnataka,Hubli,New Year,507.13,20,405.7,53,21502.1,336.48,3668.66
+2024-03-20,P011,Product_11,Home,Kerala,Thiruvananthapuram,Clearance,931.36,25,698.52,53,37021.56,511.76,9898.28
+2024-04-09,P012,Product_12,Apparel,Uttar Pradesh,Lucknow,Summer Sale,690.24,20,552.19,22,12148.18,392.62,3510.54
+2024-02-23,P018,Product_18,Electronics,Kerala,Kochi,,714.4,10,642.96,47,30219.12,414.23,10750.31
+2024-01-31,P002,Product_2,Apparel,Telangana,Warangal,Clearance,254.98,25,191.23,17,3250.91,195.64,-74.97
+2024-04-10,P014,Product_14,Apparel,Delhi,New Delhi,,226.53,10,203.88,95,19368.6,180.65,2206.85
+2024-02-28,P014,Product_14,Apparel,Kerala,Thiruvananthapuram,Clearance,265.08,5,251.83,48,12087.84,186.16,3152.16
+2024-04-20,P015,Product_15,Beauty,Telangana,Hyderabad,Diwali,717.09,15,609.53,58,35352.74,506.27,5989.08
+2024-03-23,P016,Product_16,Electronics,Delhi,New Delhi,Diwali,898.34,0,898.34,2,1796.68,478.01,840.66
+2024-01-12,P003,Product_3,Apparel,Tamil Nadu,Madurai,,871.39,10,784.25,82,64308.5,535.77,20375.36
+2024-04-08,P010,Product_10,Home,Rajasthan,Jaipur,Summer Sale,540.31,25,405.23,14,5673.22,341.11,897.68
+2024-03-21,P010,Product_10,Home,Uttar Pradesh,Varanasi,Diwali,616.09,15,523.68,32,16757.76,481.92,1336.32
+2024-04-09,P001,Product_1,Apparel,West Bengal,Kolkata,Diwali,957.55,20,766.04,9,6894.36,658.06,971.82
+2024-01-29,P001,Product_1,Apparel,Kerala,Thiruvananthapuram,Diwali,160.56,15,136.48,9,1228.32,93.35,388.17
+2024-01-06,P008,Product_8,Electronics,Tamil Nadu,Madurai,Diwali,669.86,15,569.38,78,44411.64,405.17,12808.38
+2024-01-04,P005,Product_5,Electronics,Tamil Nadu,Madurai,Clearance,747.45,25,560.59,29,16257.11,526.33,993.54
+2024-04-12,P003,Product_3,Apparel,West Bengal,Kolkata,Diwali,664.08,10,597.67,57,34067.19,351.08,14055.63
+2024-04-23,P012,Product_12,Apparel,Karnataka,Mysuru,New Year,311.53,15,264.8,14,3707.2,247.34,244.44
+2024-04-15,P002,Product_2,Apparel,Uttar Pradesh,Lucknow,Summer Sale,636.44,10,572.8,64,36659.2,327.04,15728.64
+2024-03-29,P012,Product_12,Apparel,Karnataka,Bengaluru,Summer Sale,918.61,0,918.61,20,18372.2,685.19,4668.4
+2024-03-18,P019,Product_19,Beauty,West Bengal,Siliguri,Summer Sale,824.95,10,742.46,77,57169.42,478.1,20355.72
+2024-02-13,P008,Product_8,Electronics,Karnataka,Mysuru,New Year,711.0,5,675.45,52,35123.4,550.84,6479.72
+2024-01-31,P016,Product_16,Electronics,West Bengal,Siliguri,,793.02,30,555.11,5,2775.55,428.8,631.55
+2024-03-07,P006,Product_6,Apparel,Karnataka,Hubli,Clearance,409.88,15,348.4,32,11148.8,295.24,1701.12
+2024-03-30,P005,Product_5,Electronics,Rajasthan,Jaipur,,190.14,5,180.63,76,13727.88,139.66,3113.72
+2024-01-02,P004,Product_4,Beauty,Kerala,Thiruvananthapuram,,440.48,15,374.41,30,11232.3,232.47,4258.2
+2024-02-20,P008,Product_8,Electronics,Telangana,Hyderabad,Clearance,983.25,0,983.25,46,45229.5,643.41,15632.64
+2024-03-27,P007,Product_7,Home,Telangana,Warangal,New Year,249.88,10,224.89,44,9895.16,135.27,3943.28
+2024-02-13,P002,Product_2,Apparel,West Bengal,Kolkata,,353.33,25,265.0,61,16165.0,191.89,4459.71
+2024-03-22,P001,Product_1,Apparel,Uttar Pradesh,Lucknow,New Year,208.34,5,197.92,47,9302.24,162.22,1677.9
+2024-02-13,P004,Product_4,Beauty,Gujarat,Surat,Summer Sale,375.31,15,319.01,69,22011.69,237.86,5599.35
+2024-03-29,P011,Product_11,Home,Uttar Pradesh,Varanasi,Diwali,650.03,15,552.53,56,30941.68,358.94,10841.04
+2024-03-10,P006,Product_6,Apparel,Maharashtra,Pune,Diwali,777.56,10,699.8,30,20994.0,405.27,8835.9
+2024-01-26,P020,Product_20,Beauty,Maharashtra,Mumbai,Summer Sale,624.01,10,561.61,67,37627.87,498.5,4228.37
+2024-02-12,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,New Year,671.44,20,537.15,24,12891.6,422.75,2745.6
+2024-04-22,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,Summer Sale,451.27,10,406.14,49,19900.86,345.66,2963.52
+2024-03-30,P020,Product_20,Beauty,Uttar Pradesh,Varanasi,Summer Sale,743.46,5,706.29,11,7769.19,512.25,2134.44
+2024-01-22,P019,Product_19,Beauty,West Bengal,Kolkata,,238.97,10,215.07,52,11183.64,120.68,4908.28
+2024-01-30,P013,Product_13,Beauty,Rajasthan,Udaipur,New Year,349.43,25,262.07,94,24634.58,196.89,6126.92
+2024-04-24,P017,Product_17,Apparel,Rajasthan,Udaipur,,555.44,0,555.44,57,31660.08,437.53,6720.87
+2024-03-15,P012,Product_12,Apparel,West Bengal,Siliguri,New Year,866.42,10,779.78,25,19494.5,605.89,4347.25
+2024-01-27,P018,Product_18,Electronics,Maharashtra,Mumbai,Diwali,786.13,5,746.82,72,53771.04,555.74,13757.76
+2024-03-23,P009,Product_9,Beauty,Rajasthan,Jaipur,Clearance,117.98,5,112.08,26,2914.08,74.4,979.68
+2024-02-29,P010,Product_10,Home,Uttar Pradesh,Varanasi,,566.21,20,452.97,42,19024.74,410.59,1779.96
+2024-04-06,P011,Product_11,Home,Telangana,Warangal,Clearance,746.26,5,708.95,83,58842.85,569.69,11558.58
+2024-04-05,P003,Product_3,Apparel,Uttar Pradesh,Kanpur,Summer Sale,309.72,25,232.29,23,5342.67,190.44,962.55
+2024-04-26,P010,Product_10,Home,Karnataka,Bengaluru,,289.69,20,231.75,5,1158.75,183.1,243.25
+2024-03-19,P007,Product_7,Home,Telangana,Warangal,Clearance,846.95,25,635.21,26,16515.46,575.32,1557.14
+2024-04-06,P007,Product_7,Home,Karnataka,Bengaluru,New Year,880.31,0,880.31,33,29050.23,583.09,9808.26
+2024-03-17,P005,Product_5,Electronics,Tamil Nadu,Coimbatore,Diwali,539.11,25,404.33,30,12129.9,417.01,-380.4
+2024-04-22,P014,Product_14,Apparel,West Bengal,Kolkata,Diwali,996.08,0,996.08,26,25898.08,629.97,9518.86
+2024-02-07,P007,Product_7,Home,West Bengal,Siliguri,New Year,609.27,5,578.81,6,3472.86,451.01,766.8
+2024-03-12,P003,Product_3,Apparel,Kerala,Kochi,Clearance,100.67,10,90.6,18,1630.8,68.04,406.08
+2024-01-29,P006,Product_6,Apparel,West Bengal,Kolkata,,656.87,10,591.18,17,10050.06,419.86,2912.44
+2024-01-06,P007,Product_7,Home,West Bengal,Kolkata,,325.31,25,243.98,78,19030.44,195.39,3790.02
+2024-01-22,P011,Product_11,Home,West Bengal,Siliguri,Clearance,538.15,0,538.15,12,6457.8,371.03,2005.44
+2024-02-19,P012,Product_12,Apparel,Uttar Pradesh,Kanpur,Clearance,908.8,25,681.6,48,32716.8,556.86,5987.52
+2024-04-26,P003,Product_3,Apparel,Maharashtra,Nagpur,,936.94,30,655.86,85,55748.1,594.08,5251.3
+2024-01-02,P017,Product_17,Apparel,West Bengal,Kolkata,Diwali,372.16,10,334.94,9,3014.46,204.45,1174.41
+2024-02-03,P020,Product_20,Beauty,Kerala,Kochi,Diwali,867.82,20,694.26,98,68037.48,618.87,7388.22
+2024-04-29,P011,Product_11,Home,Uttar Pradesh,Kanpur,Summer Sale,212.71,30,148.9,3,446.7,111.73,111.51
+2024-01-19,P011,Product_11,Home,Rajasthan,Jaipur,Clearance,869.65,10,782.68,48,37568.64,599.48,8793.6
+2024-01-05,P004,Product_4,Beauty,Rajasthan,Jaipur,Diwali,198.53,25,148.9,73,10869.7,109.68,2863.06
+2024-01-01,P013,Product_13,Beauty,Delhi,New Delhi,,968.04,10,871.24,94,81896.56,623.31,23305.42
+2024-01-12,P007,Product_7,Home,Rajasthan,Udaipur,Clearance,706.08,25,529.56,63,33362.28,440.46,5613.3
+2024-03-20,P018,Product_18,Electronics,Gujarat,Ahmedabad,Summer Sale,170.76,25,128.07,2,256.14,86.64,82.86
+2024-01-11,P009,Product_9,Beauty,Karnataka,Bengaluru,Diwali,989.21,10,890.29,99,88138.71,652.87,23504.58
+2024-04-21,P017,Product_17,Apparel,West Bengal,Kolkata,Summer Sale,716.25,20,573.0,46,26358.0,539.83,1525.82
+2024-04-14,P016,Product_16,Electronics,Telangana,Hyderabad,New Year,353.16,20,282.53,60,16951.8,198.49,5042.4
+2024-02-01,P019,Product_19,Beauty,Telangana,Hyderabad,Summer Sale,117.69,20,94.15,74,6967.1,62.5,2342.1
+2024-03-06,P009,Product_9,Beauty,West Bengal,Kolkata,Diwali,407.41,20,325.93,2,651.86,236.57,178.72
+2024-03-18,P015,Product_15,Beauty,Telangana,Warangal,Clearance,712.23,5,676.62,26,17592.12,565.57,2887.3
+2024-03-07,P011,Product_11,Home,Gujarat,Ahmedabad,,767.82,30,537.47,48,25798.56,394.24,6875.04
+2024-03-27,P019,Product_19,Beauty,Maharashtra,Pune,Clearance,669.78,25,502.33,18,9041.94,408.98,1680.3
+2024-04-15,P014,Product_14,Apparel,Rajasthan,Jaipur,,220.62,5,209.59,65,13623.35,136.81,4730.7
+2024-02-14,P019,Product_19,Beauty,Rajasthan,Jaipur,New Year,225.37,15,191.56,44,8428.64,145.4,2031.04
+2024-01-03,P007,Product_7,Home,West Bengal,Siliguri,Diwali,705.11,30,493.58,40,19743.2,424.79,2751.6
+2024-02-15,P016,Product_16,Electronics,Karnataka,Hubli,Clearance,842.98,30,590.09,76,44846.84,476.39,8641.2
+2024-03-25,P013,Product_13,Beauty,Gujarat,Ahmedabad,Summer Sale,824.61,30,577.23,30,17316.9,448.88,3850.5
+2024-03-06,P001,Product_1,Apparel,Delhi,New Delhi,New Year,957.03,15,813.48,99,80534.52,641.43,17032.95
+2024-02-15,P020,Product_20,Beauty,West Bengal,Kolkata,Clearance,583.82,30,408.67,33,13486.11,339.82,2272.05
+2024-01-11,P019,Product_19,Beauty,Tamil Nadu,Coimbatore,Summer Sale,115.27,0,115.27,92,10604.84,76.19,3595.36
+2024-01-27,P006,Product_6,Apparel,West Bengal,Kolkata,,228.76,10,205.88,2,411.76,162.51,86.74
+2024-02-21,P017,Product_17,Apparel,Kerala,Kochi,,939.04,25,704.28,21,14789.88,565.77,2908.71
+2024-03-01,P018,Product_18,Electronics,Delhi,New Delhi,Summer Sale,587.81,30,411.47,93,38266.71,419.76,-770.97
+2024-02-01,P006,Product_6,Apparel,Uttar Pradesh,Lucknow,Diwali,164.99,0,164.99,25,4124.75,107.4,1439.75
+2024-04-06,P013,Product_13,Beauty,Maharashtra,Nagpur,New Year,289.17,20,231.34,41,9484.94,157.54,3025.8
+2024-01-12,P006,Product_6,Apparel,Uttar Pradesh,Kanpur,Clearance,582.87,0,582.87,5,2914.35,443.98,694.45
+2024-03-16,P004,Product_4,Beauty,Tamil Nadu,Coimbatore,Clearance,647.0,30,452.9,57,25815.3,510.29,-3271.23
+2024-03-17,P004,Product_4,Beauty,Gujarat,Vadodara,Summer Sale,786.28,10,707.65,98,69349.7,541.0,16331.7
+2024-02-22,P014,Product_14,Apparel,Tamil Nadu,Coimbatore,New Year,128.21,5,121.8,54,6577.2,95.56,1416.96
+2024-04-27,P005,Product_5,Electronics,Kerala,Thiruvananthapuram,Clearance,940.98,0,940.98,69,64927.62,598.92,23602.14
+2024-01-16,P007,Product_7,Home,Delhi,New Delhi,,879.81,20,703.85,88,61938.8,584.26,10523.92
+2024-04-15,P011,Product_11,Home,Kerala,Kochi,Clearance,180.53,30,126.37,76,9604.12,106.34,1522.28
+2024-03-28,P009,Product_9,Beauty,Tamil Nadu,Coimbatore,Summer Sale,870.54,30,609.38,46,28031.48,674.9,-3013.92
+2024-04-23,P011,Product_11,Home,Rajasthan,Udaipur,Clearance,171.17,20,136.94,44,6025.36,92.2,1968.56
+2024-04-05,P013,Product_13,Beauty,Rajasthan,Jaipur,Summer Sale,114.33,30,80.03,50,4001.5,78.54,74.5
+2024-03-09,P020,Product_20,Beauty,Rajasthan,Udaipur,New Year,810.02,25,607.51,36,21870.36,428.49,6444.72
+2024-03-22,P003,Product_3,Apparel,Gujarat,Vadodara,Summer Sale,312.11,0,312.11,41,12796.51,227.51,3468.6
+2024-03-09,P011,Product_11,Home,Kerala,Thiruvananthapuram,Summer Sale,214.12,10,192.71,7,1348.97,133.9,411.67
+2024-03-30,P020,Product_20,Beauty,Delhi,New Delhi,Diwali,214.4,5,203.68,16,3258.88,136.23,1079.2
+2024-03-19,P005,Product_5,Electronics,Rajasthan,Udaipur,Summer Sale,730.31,15,620.76,23,14277.48,552.08,1579.64
+2024-01-23,P001,Product_1,Apparel,Telangana,Hyderabad,Summer Sale,555.53,5,527.75,25,13193.75,309.71,5451.0
+2024-04-02,P007,Product_7,Home,Rajasthan,Udaipur,New Year,562.17,0,562.17,81,45535.77,341.58,17867.79
+2024-02-25,P011,Product_11,Home,Telangana,Hyderabad,,454.77,0,454.77,19,8640.63,336.1,2254.73
+2024-02-02,P010,Product_10,Home,Gujarat,Vadodara,Summer Sale,524.71,30,367.3,23,8447.9,315.66,1187.72
+2024-02-01,P015,Product_15,Beauty,Rajasthan,Udaipur,Summer Sale,848.75,0,848.75,18,15277.5,574.07,4944.24
+2024-03-10,P007,Product_7,Home,West Bengal,Kolkata,,542.74,15,461.33,17,7842.61,420.8,689.01
+2024-03-08,P019,Product_19,Beauty,Telangana,Hyderabad,Diwali,814.56,20,651.65,34,22156.1,488.91,5533.16
+2024-03-31,P009,Product_9,Beauty,Kerala,Kochi,Diwali,980.5,20,784.4,88,69027.2,769.48,1312.96
+2024-04-22,P013,Product_13,Beauty,Kerala,Thiruvananthapuram,New Year,800.59,10,720.53,61,43952.33,510.94,12784.99
+2024-01-16,P006,Product_6,Apparel,Tamil Nadu,Madurai,Diwali,131.64,30,92.15,16,1474.4,100.47,-133.12
+2024-01-21,P004,Product_4,Beauty,Delhi,New Delhi,New Year,596.54,10,536.89,12,6442.68,351.69,2222.4
+2024-01-06,P016,Product_16,Electronics,Delhi,New Delhi,Summer Sale,968.97,15,823.62,17,14001.54,538.1,4853.84
+2024-01-09,P013,Product_13,Beauty,Uttar Pradesh,Varanasi,,511.99,0,511.99,20,10239.8,368.28,2874.2
+2024-03-24,P012,Product_12,Apparel,Tamil Nadu,Coimbatore,Clearance,738.37,15,627.61,61,38284.21,421.81,12553.8
+2024-04-10,P012,Product_12,Apparel,West Bengal,Kolkata,New Year,798.28,15,678.54,97,65818.38,572.23,10312.07
+2024-04-18,P008,Product_8,Electronics,Gujarat,Vadodara,,284.48,25,213.36,98,20909.28,192.03,2090.34
+2024-03-11,P018,Product_18,Electronics,Uttar Pradesh,Lucknow,Summer Sale,867.29,0,867.29,14,12142.06,611.44,3581.9
+2024-04-04,P014,Product_14,Apparel,Gujarat,Ahmedabad,,417.28,10,375.55,31,11642.05,248.6,3935.45
+2024-04-13,P006,Product_6,Apparel,Tamil Nadu,Madurai,,353.62,30,247.53,96,23762.88,195.75,4970.88
+2024-04-18,P003,Product_3,Apparel,Maharashtra,Nagpur,,310.93,10,279.84,58,16230.72,173.75,6153.22
+2024-02-01,P006,Product_6,Apparel,Rajasthan,Udaipur,Clearance,624.95,30,437.47,91,39809.77,383.02,4954.95
+2024-01-09,P001,Product_1,Apparel,West Bengal,Siliguri,Diwali,131.19,0,131.19,18,2361.42,101.59,532.8
+2024-02-23,P004,Product_4,Beauty,Rajasthan,Udaipur,Summer Sale,693.01,30,485.11,64,31047.04,354.42,8364.16
+2024-04-01,P003,Product_3,Apparel,Karnataka,Hubli,Clearance,704.85,5,669.61,83,55577.63,395.16,22779.35
+2024-02-18,P011,Product_11,Home,Uttar Pradesh,Varanasi,Diwali,103.53,30,72.47,63,4565.61,77.77,-333.9
+2024-01-12,P016,Product_16,Electronics,Kerala,Kochi,Diwali,808.05,30,565.63,94,53169.22,476.77,8352.84
+2024-03-19,P020,Product_20,Beauty,Tamil Nadu,Coimbatore,Clearance,629.31,15,534.91,43,23001.13,385.64,6418.61
+2024-03-24,P018,Product_18,Electronics,Telangana,Warangal,Diwali,892.14,5,847.53,26,22035.78,529.97,8256.56
+2024-02-07,P010,Product_10,Home,Tamil Nadu,Chennai,Diwali,192.1,30,134.47,4,537.88,136.36,-7.56
+2024-01-28,P001,Product_1,Apparel,Maharashtra,Mumbai,,673.66,25,505.25,90,45472.5,444.52,5465.7
+2024-04-10,P014,Product_14,Apparel,Rajasthan,Udaipur,New Year,425.5,0,425.5,8,3404.0,324.56,807.52
+2024-03-14,P002,Product_2,Apparel,Uttar Pradesh,Kanpur,Diwali,780.89,25,585.67,50,29283.5,396.88,9439.5
+2024-04-17,P011,Product_11,Home,Maharashtra,Nagpur,,662.58,30,463.81,99,45917.19,366.05,9678.24
+2024-02-25,P016,Product_16,Electronics,Telangana,Hyderabad,,586.2,0,586.2,53,31068.6,420.56,8778.92
+2024-01-10,P012,Product_12,Apparel,Gujarat,Ahmedabad,Clearance,268.61,30,188.03,39,7333.17,150.65,1457.82
+2024-01-21,P014,Product_14,Apparel,Tamil Nadu,Chennai,,751.0,30,525.7,83,43633.1,525.47,19.09
+2024-01-13,P012,Product_12,Apparel,Delhi,New Delhi,Summer Sale,239.31,15,203.41,96,19527.36,137.53,6324.48
+2024-01-09,P013,Product_13,Beauty,Kerala,Kochi,Summer Sale,899.87,20,719.9,92,66230.8,581.93,12693.24
+2024-02-27,P011,Product_11,Home,Maharashtra,Pune,Clearance,284.25,5,270.04,35,9451.4,146.89,4310.25
+2024-03-21,P009,Product_9,Beauty,Tamil Nadu,Chennai,New Year,372.36,20,297.89,72,21448.08,256.09,3009.6
+2024-03-18,P016,Product_16,Electronics,Delhi,New Delhi,Summer Sale,852.8,5,810.16,98,79395.68,652.96,15405.6
+2024-01-02,P008,Product_8,Electronics,Kerala,Kochi,,605.44,25,454.08,12,5448.96,338.63,1385.4
+2024-01-07,P016,Product_16,Electronics,Tamil Nadu,Chennai,,750.75,5,713.21,29,20683.09,422.7,8424.79
+2024-03-21,P015,Product_15,Beauty,Karnataka,Bengaluru,New Year,199.13,5,189.17,14,2648.38,100.88,1236.06
+2024-01-06,P013,Product_13,Beauty,Rajasthan,Jaipur,New Year,114.13,10,102.72,70,7190.4,67.24,2483.6
+2024-01-24,P012,Product_12,Apparel,Gujarat,Ahmedabad,Clearance,331.15,30,231.8,88,20398.4,234.86,-269.28
+2024-03-15,P018,Product_18,Electronics,Telangana,Hyderabad,New Year,279.11,10,251.2,40,10048.0,218.05,1326.0
+2024-02-13,P008,Product_8,Electronics,Karnataka,Hubli,Summer Sale,674.81,5,641.07,24,15385.68,386.69,6105.12
+2024-03-11,P018,Product_18,Electronics,Rajasthan,Udaipur,Diwali,184.27,30,128.99,28,3611.72,125.91,86.24
+2024-04-15,P006,Product_6,Apparel,Rajasthan,Udaipur,Clearance,462.27,30,323.59,34,11002.06,303.49,683.4
+2024-03-22,P002,Product_2,Apparel,Delhi,New Delhi,Clearance,181.38,0,181.38,93,16868.34,141.11,3745.11
+2024-04-15,P016,Product_16,Electronics,Uttar Pradesh,Kanpur,Summer Sale,384.0,10,345.6,92,31795.2,197.9,13588.4
+2024-03-31,P008,Product_8,Electronics,Gujarat,Surat,Clearance,899.88,10,809.89,53,42924.17,558.19,13340.1
+2024-01-30,P002,Product_2,Apparel,Maharashtra,Nagpur,Summer Sale,938.49,25,703.87,97,68275.39,695.38,823.53
+2024-02-26,P019,Product_19,Beauty,Maharashtra,Pune,Summer Sale,568.18,5,539.77,63,34005.51,347.73,12098.52
+2024-04-01,P012,Product_12,Apparel,West Bengal,Kolkata,Diwali,802.52,10,722.27,7,5055.89,571.53,1055.18
+2024-02-22,P006,Product_6,Apparel,Uttar Pradesh,Varanasi,Diwali,828.43,25,621.32,92,57161.44,425.95,17974.04
+2024-04-17,P010,Product_10,Home,Delhi,New Delhi,Summer Sale,209.23,25,156.92,4,627.68,109.03,191.56
+2024-03-09,P001,Product_1,Apparel,West Bengal,Siliguri,Diwali,451.21,20,360.97,7,2526.79,292.38,480.13
+2024-01-20,P005,Product_5,Electronics,Rajasthan,Jaipur,Clearance,598.69,0,598.69,95,56875.55,368.27,21889.9
+2024-03-27,P010,Product_10,Home,Telangana,Hyderabad,New Year,243.24,5,231.08,11,2541.88,152.23,867.35
+2024-02-03,P012,Product_12,Apparel,Uttar Pradesh,Kanpur,New Year,904.58,20,723.66,61,44143.26,510.77,12986.29
+2024-04-24,P015,Product_15,Beauty,Gujarat,Surat,Summer Sale,589.71,30,412.8,58,23942.4,383.36,1707.52
+2024-01-25,P001,Product_1,Apparel,Telangana,Warangal,New Year,646.04,30,452.23,48,21707.04,359.37,4457.28
+2024-04-28,P014,Product_14,Apparel,West Bengal,Siliguri,Diwali,748.1,30,523.67,25,13091.75,478.14,1138.25
+2024-03-03,P011,Product_11,Home,Telangana,Warangal,New Year,358.45,10,322.61,27,8710.47,181.17,3818.88
+2024-03-25,P016,Product_16,Electronics,Karnataka,Hubli,,449.77,25,337.33,19,6409.27,308.49,547.96
+2024-01-10,P018,Product_18,Electronics,Kerala,Thiruvananthapuram,,705.8,25,529.35,78,41289.3,398.52,10204.74
+2024-04-14,P006,Product_6,Apparel,Delhi,New Delhi,,525.69,30,367.98,22,8095.56,287.54,1769.68
+2024-02-23,P019,Product_19,Beauty,Rajasthan,Udaipur,Clearance,515.84,30,361.09,48,17332.32,335.43,1231.68
+2024-04-03,P001,Product_1,Apparel,Karnataka,Hubli,Clearance,877.2,25,657.9,40,26316.0,675.32,-696.8
+2024-03-14,P020,Product_20,Beauty,West Bengal,Siliguri,New Year,703.78,5,668.59,2,1337.18,447.48,442.22
+2024-04-27,P006,Product_6,Apparel,Delhi,New Delhi,Summer Sale,631.78,10,568.6,55,31273.0,462.79,5819.55
+2024-04-13,P005,Product_5,Electronics,Telangana,Hyderabad,,428.11,20,342.49,6,2054.94,239.09,620.4
+2024-04-16,P017,Product_17,Apparel,Karnataka,Bengaluru,Clearance,823.47,25,617.6,96,59289.6,600.03,1686.72
+2024-01-17,P006,Product_6,Apparel,Karnataka,Hubli,,445.55,10,401.0,40,16040.0,241.7,6372.0
+2024-01-09,P018,Product_18,Electronics,Rajasthan,Jaipur,New Year,488.9,5,464.45,57,26473.65,256.94,11828.07
+2024-03-19,P010,Product_10,Home,Kerala,Thiruvananthapuram,,228.51,30,159.96,35,5598.6,180.37,-714.35
+2024-03-07,P013,Product_13,Beauty,Rajasthan,Udaipur,Diwali,387.75,15,329.59,84,27685.56,275.11,4576.32
+2024-04-07,P004,Product_4,Beauty,Kerala,Kochi,,415.17,20,332.14,55,18267.7,295.04,2040.5
+2024-02-08,P009,Product_9,Beauty,Uttar Pradesh,Varanasi,,380.36,0,380.36,11,4183.96,270.42,1209.34
+2024-01-08,P020,Product_20,Beauty,Gujarat,Ahmedabad,Clearance,536.74,0,536.74,49,26300.26,294.72,11858.98
+2024-02-03,P011,Product_11,Home,Delhi,New Delhi,,498.81,15,423.99,91,38583.09,251.43,15702.96
+2024-04-19,P014,Product_14,Apparel,Kerala,Thiruvananthapuram,New Year,573.35,25,430.01,17,7310.17,439.53,-161.84
+2024-02-02,P005,Product_5,Electronics,Telangana,Hyderabad,,703.65,30,492.55,80,39404.0,418.63,5913.6
+2024-02-27,P016,Product_16,Electronics,Kerala,Thiruvananthapuram,Clearance,940.07,15,799.06,93,74312.58,628.52,15860.22
+2024-04-24,P002,Product_2,Apparel,Tamil Nadu,Coimbatore,New Year,682.95,0,682.95,10,6829.5,481.82,2011.3
+2024-04-20,P016,Product_16,Electronics,Maharashtra,Mumbai,Summer Sale,558.56,10,502.7,65,32675.5,292.14,13686.4
+2024-04-14,P008,Product_8,Electronics,Uttar Pradesh,Lucknow,Diwali,173.33,15,147.33,10,1473.3,121.44,258.9
+2024-02-18,P011,Product_11,Home,Tamil Nadu,Coimbatore,Summer Sale,467.83,30,327.48,12,3929.76,356.23,-345.0
+2024-02-05,P007,Product_7,Home,Uttar Pradesh,Lucknow,,133.81,25,100.36,11,1103.96,82.41,197.45
+2024-02-25,P002,Product_2,Apparel,Telangana,Hyderabad,,557.84,10,502.06,90,45185.4,294.72,18660.6
+2024-01-30,P015,Product_15,Beauty,Tamil Nadu,Madurai,Clearance,251.41,25,188.56,56,10559.36,183.21,299.6
